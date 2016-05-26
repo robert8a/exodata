@@ -13,10 +13,11 @@ p:empty, .entry-content-wrapper:empty{display:none;}
 }
 
 
-body .container_wrap .avia-builder-el-no-sibling{    margin-top: 0;
-    margin-left: 50px;
-    margin-right: 50px;
-    margin-bottom: 39px;}
+body .container_wrap .avia-builder-el-no-sibling{    
+	margin-top: 0;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;}
 body .container_wrap .avia-builder-el-last{margin-bottom:0;}
 body .container_wrap .avia-builder-el-first{margin-top:0;}
 

@@ -1,6 +1,6 @@
 <?php
 
-$destinatario = "info@exodatasolutions.com";
+$destinatario = "robert.ochoa@gmail.com";
 $subject = "Consulta De Servicios En Exodata Solutions";
 $mensaje = "Srs. Administradores \n\n{$_POST['nombre']} le ha enviado un mensaje.\n\n
 Dice lo siguiente:\n\n {$_POST['mensaje']}\n\n
