@@ -905,9 +905,9 @@ body .alternate_color .mejs-controls .mejs-time-rail .mejs-time-float-corner {
 .main_color a, .main_color .widget_first, .main_color strong, .main_color b, .main_color b a, .main_color strong a, .main_color #js_sort_items a:hover, .main_color #js_sort_items a.active_sort, .main_color .av-sort-by-term a.active_sort, .main_color .special_amp, .main_color .taglist a.activeFilter, .main_color #commentform .required, #top .main_color .av-no-color.av-icon-style-border a.av-icon-char{
 	color:#4ecac2;
 }
-.main_color a:hover, .main_color h1 a:hover, .main_color h2 a:hover, .main_color h3 a:hover, .main_color h4 a:hover, .main_color h5 a:hover, .main_color h6 a:hover,  .main_color .template-search  a.news-content:hover, .main_color .wp-playlist-item .wp-playlist-caption:hover{
+/*.main_color a:hover, .main_color h1 a:hover, .main_color h2 a:hover, .main_color h3 a:hover, .main_color h4 a:hover, .main_color h5 a:hover, .main_color h6 a:hover,  .main_color .template-search  a.news-content:hover, .main_color .wp-playlist-item .wp-playlist-caption:hover{
 	color: #c94e8e;
-}
+}*/
 .main_color .primary-background, .main_color .primary-background a, div .main_color .button, .main_color #submit, .main_color input[type='submit'], .main_color .small-preview:hover, .main_color .avia-menu-fx, .main_color .avia-menu-fx .avia-arrow, .main_color.iconbox_top .iconbox_icon, .main_color .iconbox_top a.iconbox_icon:hover, .main_color .avia-data-table th.avia-highlight-col, .main_color .avia-color-theme-color, .main_color .avia-color-theme-color:hover, .main_color .image-overlay .image-overlay-inside:before, .main_color .comment-count, .main_color .av_dropcap2, #top #wrap_all .main_color .av-menu-button-colored > a .avia-menu-text, .main_color .av-colored-style .av-countdown-cell-inner, .responsive #top .main_color .av-open-submenu.av-subnav-menu > li > a:hover, #top .main_color .av-open-submenu.av-subnav-menu li > ul a:hover{
 	background-color: #4ecac2;color:#ffffff;border-color:#2ca8a0;
 }
