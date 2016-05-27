@@ -176,7 +176,35 @@ a:active {
   background-attachment: fixed; 
   background-position: bottom center;
 }
+.productos {
+text-align: center;
 
+}
+.img_izq {
+
+}
+
+.img_izq {
+
+}
+
+.panel-group .panel {
+    background-color: rgba(255, 0, 0, 0);
+    margin-bottom: 0;
+    border-radius: 4px;
+    border-width: 0px;
+    padding: 5px;
+}
+
+
+.panel-default>.panel-heading {
+    color: #333;
+    background-color: rgb(245, 245, 245);
+    border-color: #337ab7;
+    border-radius: 26px;
+    border-style: solid;
+    border-width: 2px;
+}
 
 /*media querys*/
 
@@ -203,7 +231,8 @@ a:active {
             text-align: center;
         }
 		
-        
+
+       
 
 }
 
@@ -246,8 +275,6 @@ a:active {
 
         }
 
-	
-
         .footer_logo2 {
             position: relative;
             display: initial;
@@ -259,6 +286,21 @@ a:active {
         .footer_centro div ul li{
             display: inline;
             padding: 10px;
+        }
+
+        .productos {
+
+        text-align: center;
+        height: 55px;
+
+        }
+        .img_izq {
+        float: left;
+        }
+
+        .img_der {
+        padding: 20px;
+        float: right;
         }
 
 
@@ -369,6 +411,8 @@ display: inline-block;
         .footer_centro div span{
             font-size: 10px;
         }
+
+
 
 
 }
