@@ -1101,25 +1101,21 @@ background-color: #fcfcfc;
 background-color: #889095;
 }
 @media only screen and (max-width: 767px) {
-	.responsive #top .main_color .tabcontainer .active_tab{
-		background-color: #c79a52; color:#ffffff; 
-	} /*hard coded white to match the icons beside which are also white*/
-	.responsive #top .main_color .tabcontainer{
-		border-color:#e1e1e1;
-	}
-	.responsive #top .main_color .active_tab_content{
-		background-color: #fcfcfc;
-	}
+.responsive #top .main_color .tabcontainer .active_tab{
+ background-color: #c79a52; color:#ffffff; } /*hard coded white to match the icons beside which are also white*/.responsive #top .main_color .tabcontainer{
+border-color:#e1e1e1;
 }
+.responsive #top .main_color .active_tab_content{
+background-color: #fcfcfc;
+}}
 .main_color tr:nth-child(even), .main_color .avia-data-table .avia-heading-row .avia-desc-col, .main_color .avia-data-table .avia-highlight-col, .main_color .pricing-table>li:nth-child(even), body .main_color .pricing-table.avia-desc-col li{
 background-color:#ffffff;color: #55606e;
 }
 .main_color table caption, .main_color tr:nth-child(even), .main_color .pricing-table>li:nth-child(even){
 color: #889095;
-
 }
 .main_color tr:nth-child(odd), .main_color .pricing-table>li:nth-child(odd), .main_color .pricing-extra{
-background: #E0E4E9;
+background: #fcfcfc;
 }
 .main_color .pricing-table li.avia-pricing-row, .main_color .pricing-table li.avia-heading-row, .main_color .pricing-table li.avia-pricing-row .pricing-extra{
 background-color: #0F3653;color:#ffffff;border-color:#f6dbae;
