@@ -217,7 +217,7 @@ text-align: center;
 }
 
 .panel-default > .panel-heading + .panel-collapse > .panel-body {
-    border-top-color: #adaead;
+    /*border-top-color: #adaead;*/
 }
 
 #planes {
