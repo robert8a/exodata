@@ -216,6 +216,10 @@ text-align: center;
 	margin-top: 10px;
 }
 
+.panel-default > .panel-heading + .panel-collapse > .panel-body {
+    border-top-color: #adaead;
+}
+
 #planes {
 	
 	background-color: transparent;
