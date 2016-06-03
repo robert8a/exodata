@@ -91,7 +91,7 @@
 
 .colio-theme-white .side {
 	float: left;
-	width: 60%;
+	width: 80%;
 	padding-right: 40px;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
@@ -100,7 +100,7 @@
 
 .colio-theme-white .main {
 	float: left;
-	width: 40%;
+	width: 20%;
 	padding-right: 20px;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
@@ -162,6 +162,8 @@
 	position: relative;
 	left: 50%;
 	margin-top: 15px;
+	top: -160;
+	z-index: 10000;
 }
 
 .colio-theme-white .flex-control-nav li {
@@ -191,11 +193,11 @@
 
 .colio-theme-white .flex-direction-nav .flex-prev,
 .colio-theme-white .flex-direction-nav .flex-next {
-	position: absolute;
-	height: 100%;
-	width: 50%;
-	text-indent: -9999px;
-	z-index: 10;
+    position: absolute;
+    height: 88%;
+    width: 40%;
+    text-indent: -9999px;
+    z-index: 10;
 }
 
 .colio-theme-white .flex-direction-nav .flex-next { top: 0; right: 0; }
@@ -280,7 +282,9 @@
 ================================================== */
 
 /* Smaller than standard 960 (devices and browsers) */
-@media only screen and (max-width: 959px) { }
+@media only screen and (max-width: 959px) { 
+
+}
 
 /* Tablet Portrait size to standard 960 (devices and browsers) */
 @media only screen and (min-width: 768px) and (max-width: 959px) {}
@@ -293,6 +297,9 @@
 	.colio-theme-white .main { margin-bottom: 0; }
 	.colio-theme-white .colio-navigation { top: 40px; left: 40px; right: auto; }
 	.colio-theme-white .main h3 { margin-top: 0; }
+
+	
+
 	
 }
 
@@ -304,5 +311,7 @@
 
 	.colio-theme-white .colio-container { padding: 30px; }
 	.colio-theme-white .colio-navigation { top: 40px; left: 30px; right: auto; }
+
+	
 	
 }
