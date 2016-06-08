@@ -54,7 +54,7 @@ input[type="button"] {
 	border: none;
 	-webkit-border-radius: 5px;
 	border-radius: 5px;
-	background: #ff5452;
+	background: #268A1B;
 	color: #fff!important;
 	font-size: 13px;
 	line-height: 21px;
@@ -71,7 +71,7 @@ input[type="submit"]:hover,
 input[type="reset"]:hover,
 input[type="button"]:hover {
 	border: none;
-	background: #f2504e;
+	background: #36B528;
 }
 
 .button:active,
@@ -80,7 +80,7 @@ input[type="submit"]:active,
 input[type="reset"]:active,
 input[type="button"]:active {
 	border: none;
-	background: #f2504e;
+	background: #36B528;
 }
 
 

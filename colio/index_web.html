@@ -1,0 +1,527 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+
+<!-- Mirrored from plugins.gravitysign.com/colio/index_black.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 06 Jun 2016 19:19:50 GMT -->
+<head>
+
+	<!-- Basic Page Needs
+	================================================== -->
+	<meta charset="utf-8">
+	<meta name="description" content="Portfolio content expander and details viewer plugin">
+	<meta name="author" content="flGravity">
+	
+	<!-- Mobile Specific Metas
+	================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	
+	<!-- CSS
+	================================================== -->
+	<link rel="stylesheet" href="css/base.css">
+	<link rel="stylesheet" href="css/skeleton.css">
+	<link rel="stylesheet" href="css/layout.css">
+	<link rel="stylesheet" href="http://plugins.gravitysign.com/colio/css/isotope.css">
+	<link rel="stylesheet" href="css/colio.css">
+
+
+	<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	
+	<!-- JS
+	================================================== -->
+	<script type="text/javascript" src="js/jquery.min.js"></script>
+	<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+	<script type="text/javascript" src="js/jquery.scrollUp.min.js"></script>
+	<script type="text/javascript" src="http://plugins.gravitysign.com/colio/js/jquery.isotope.min.js"></script>
+	<script type="text/javascript" src="js/jquery.colio.min.js"></script>
+	
+	
+	<!-- Colio Black Theme
+	================================================== -->
+	<link rel="stylesheet" href="colio-black/style.css" />
+	<link rel="stylesheet" href="http://plugins.gravitysign.com/colio/colio-black/fancybox/jquery.fancybox.css" />
+	<script type="text/javascript" src="http://plugins.gravitysign.com/colio/colio-black/fancybox/jquery.fancybox.js"></script>
+	
+	
+	<script type="text/javascript">
+		$(document).ready(function(){
+			
+			// "scrollTop" plugin
+			$.scrollUp();
+			
+			// "colio" plugin
+			$('.portfolio .list').colio({
+				id: 'demo_1',
+				theme: 'black',
+				placement: 'inside',
+				hiddenItems: '.isotope-hidden',
+				onContent: function(content){
+					// init "fancybox" plugin
+					$('.fancybox', content).fancybox();
+				}
+			});
+			
+			// "isotope" plugin
+			var filter = '*', isotope_run = function(f) {
+				var list = $('.portfolio .list').isotope({layoutMode : 'fitRows', filter: f});		
+				window.setTimeout(function(){
+					list.trigger('colio','excludeHidden');
+				}, 25);
+			};
+			
+			$('.portfolio .filters a').click(function(){
+				$(this).addClass('filter-active').siblings().removeClass('filter-active');
+				var href = $(this).attr('href').substr(1);
+				filter = href ? '.' + href : '*';
+				isotope_run(filter);
+				return false;
+			});
+			
+			isotope_run(filter);			
+			
+		});
+	</script>
+
+	<!-- Favicons
+	================================================== -->
+	<link rel="shortcut icon" href="images/favicon.ico">
+	<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+
+
+</head>
+<body>
+
+	<div class="container">
+					
+		<header class="sixteen columns main-header">
+		
+			<h1>Portafolio de Proyectos</h1>
+		
+		</header><!-- header -->
+			
+		
+		<!-- SPACER --> <div class="spacer"></div>
+		
+	
+	
+		<div class="sixteen columns">
+			
+			
+							
+			<div class="portfolio clearfix">
+							
+
+				
+				<ul class="list">
+					
+					<li class="inspiration"  data-content="#colio_c1">
+						<div class="thumb">
+							<div class="view">
+								<a class="button colio-link" href="#">+</a>
+							</div>
+							<img src="pictures/Web/Asia/Proyecto_Asia_Portada.png" alt="Pic"/>
+						</div>
+						<h4><a class="colio-link" href="#">Asia</a></h4>
+						
+					</li>
+					
+					<li class="design inspiration" data-content="#colio_c2">
+<div class="thumb">
+							<div class="view">
+								<a class="button colio-link" href="#">+</a>
+							</div>
+							<img src="pictures/Web/EYGWeb/Proyecto_EYG_Portada.png" alt="Pic"/>
+						</div>
+						<h4><a class="colio-link" href="#">EYG Web</a></h4>
+						
+					</li>
+					
+	<li class="design inspiration" data-content="#colio_c3">
+						<div class="thumb">
+							<div class="view">
+								<a class="button colio-link" href="#">+</a>
+							</div>
+							<img src="pictures/Web/japi/japi_montaje_2.png" alt="Pic"/>
+						</div>
+						<h4><a class="colio-link" href="#">JAPI</a></h4>
+						
+					</li>
+					
+					<li class="design" data-content="#colio_c4">
+						<div class="thumb">
+							<div class="view">
+								<a class="button colio-link" href="#">+</a>
+							</div>
+							<img src="pictures/Web/JBP/Proyecto_JBP_Portada.png" alt="Pic"/>
+						</div>
+						<h4><a class="colio-link" href="#">JBP</a></h4>
+						
+					</li>
+
+					<li class="design inspiration" data-content="#colio_c5">
+						<div class="thumb">
+							<div class="view">
+								<a class="button colio-link" href="#">+</a>
+							</div>
+							<img src="pictures/Web/JbpInmobiliaria/inmobiliaria.png" alt="Pic"/>
+						</div>
+						<h4><a class="colio-link" href="#">JBP Inmobiliaria</a></h4>
+						
+					</li>
+					
+					<li class="design" data-content="#colio_c6">
+						<div class="thumb">
+							<div class="view">
+								<a class="button colio-link" href="#">+</a>
+							</div>
+							<img src="pictures/Web/Platinum/Proyecto_platinum_portada.png" alt="Pic"/>
+						</div>
+						<h4><a class="colio-link" href="#">Platinum</a></h4>
+						
+					</li>
+					
+					<li class="design inspiration" data-content="#colio_c7">
+						<div class="thumb">
+							<div class="view">
+								<a class="button colio-link" href="#">+</a>
+							</div>
+							<img src="pictures/Web/SusepicaWeb/Proyecto_susepica_portada.png" alt="Pic"/>
+						</div>
+						<h4><a class="colio-link" href="#">Susepica</a></h4>
+						
+					</li>
+					
+					<li class="inspiration" data-content="#colio_c8">
+						<div class="thumb">
+							<div class="view">
+								<a class="button colio-link" href="#">+</a>
+							</div>
+							<img src="pictures/Web/VPDWeb/Proyecto_VDP_Portada.png" alt="Pic"/>
+						</div>
+						<h4><a class="colio-link" href="#">Venezuelan Drilling</a></h4>
+						
+					</li>						
+					
+				</ul><!-- list -->
+
+			</div><!-- portfolio -->
+			
+			
+			<div id="colio_c1" class="colio-content">
+					
+				<div class="main">
+					
+					<h3>This is "Colio"</h3>
+					<p>Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?</p>
+					<a class="visit-link" href="http://codecanyon.net/">Visit Site</a>
+					
+				</div><!-- main -->
+				
+				<div class="side">
+					<ul class="feed">
+
+
+						<li>
+							<a class="fancybox" href="pictures/Web/Asia/Proyecto_Asia_1.jpg">
+							<img src="pictures/Web/Asia/mini/Proyecto_Asia_1.jpg" alt="Pic"/>
+							</a>
+						</li>
+
+						<li>
+							<a class="fancybox" href="pictures/Web/Asia/Proyecto_Asia_2.jpg">
+								<img src="pictures/Web/Asia/mini/Proyecto_Asia_2.jpg" alt="Pic"/>
+							</a>
+						</li>
+						<li>
+							<a class="fancybox" href="pictures/Web/Asia/Proyecto_Asia_3.jpg">
+								<img src="pictures/Web/Asia/mini/Proyecto_Asia_3.jpg" alt="Pic"/>
+							</a>
+						</li>
+					</ul>
+				</div><!-- side -->
+				
+			</div><!-- colio-content # colio_c1 -->
+			
+			
+			<div id="colio_c2" class="colio-content">
+									
+				<div class="main">
+					<h3>Portfolio expanding plugin</h3>
+					
+					<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo <a href="http://google.com/">inventore veritatis</a> et quasi architecto beatae vitae dicta sunt explicabo.</p>
+
+<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
+
+
+
+				</div><!-- main -->
+				
+				<div class="side">
+					<ul class="feed">
+
+
+						<li>
+							<a class="fancybox" href="pictures/Web/EYGWeb/Proyecto_EYG_1.jpg">
+							<img src="pictures/Web/EYGWeb/mini/Proyecto_EYG_1.jpg" alt="Pic"/>
+							</a>
+						</li>
+
+						<li>
+							<a class="fancybox" href="pictures/Web/EYGWeb/Proyecto_EYG_2.jpg">
+								<img src="pictures/Web/EYGWeb/mini/Proyecto_EYG_2.jpg" alt="Pic"/>
+							</a>
+						</li>
+						<li>
+							<a class="fancybox" href="pictures/Web/EYGWeb/Proyecto_EYG_3.jpg">
+								<img src="pictures/Web/mini/EYGWeb/Proyecto_EYG_3.jpg" alt="Pic"/>
+							</a>
+						</li>
+					</ul>
+
+				</div><!-- side -->
+				
+			</div><!-- colio-content # colio_c2 -->
+				
+
+			<div id="colio_c3" class="colio-content">
+									
+				<div class="main">
+					<h3>Portfolio expanding plugin</h3>
+					
+					<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo <a href="http://google.com/">inventore veritatis</a> et quasi architecto beatae vitae dicta sunt explicabo.</p>
+
+<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
+
+
+
+				</div><!-- main -->
+				
+				<div class="side">
+					<ul class="feed">
+
+
+						<li>
+							<a class="fancybox" href="pictures/Web/japi/japi_montaje_2.png">
+							<img src="pictures/Web/japi/mini/japi_montaje_2.png" alt="Pic"/>
+							</a>
+						</li>
+
+					</ul>
+
+				</div><!-- side -->
+				
+			</div><!-- colio-content  -->
+
+
+			<div id="colio_c4" class="colio-content">
+									
+				<div class="main">
+					<h3>Portfolio expanding plugin</h3>
+					
+					<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo <a href="http://google.com/">inventore veritatis</a> et quasi architecto beatae vitae dicta sunt explicabo.</p>
+
+<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
+
+
+
+				</div><!-- main -->
+				
+				<div class="side">
+					<ul class="feed">
+
+
+						<li>
+							<a class="fancybox" href="pictures/Web/JBP/Proyecto_JBP_1.jpg">
+							<img src="pictures/Web/JBP/mini/Proyecto_JBP_1.jpg" alt="Pic"/>
+							</a>
+						</li>
+
+						<li>
+							<a class="fancybox" href="pictures/Web/JBP/Proyecto_JBP_2.jpg">
+							<img src="pictures/Web/JBP/mini/Proyecto_JBP_2.jpg" alt="Pic"/>
+							</a>
+						</li>
+						<li>
+							<a class="fancybox" href="pictures/Web/JBP/Proyecto_JBP_3.jpg">
+							<img src="pictures/Web/JBP/mini/Proyecto_JBP_3.jpg" alt="Pic"/>
+							</a>
+						</li>												
+					</ul>
+
+				</div><!-- side -->
+				
+			</div>
+
+			<div id="colio_c5" class="colio-content">
+									
+				<div class="main">
+					<h3>Portfolio expanding plugin</h3>
+					
+					<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo <a href="http://google.com/">inventore veritatis</a> et quasi architecto beatae vitae dicta sunt explicabo.</p>
+
+<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
+
+
+
+				</div><!-- main -->
+				
+				<div class="side">
+					<ul class="feed">
+
+
+						<li>
+							<a class="fancybox" href="pictures/Web/JbpInmobiliaria/inmobiliaria.jpg">
+							<img src="pictures/Web/JbpInmobiliaria/mini/inmobiliaria.jpg" alt="Pic"/>
+							</a>
+						</li>
+
+						<li>
+							<a class="fancybox" href="pictures/Web/JbpInmobiliaria/MONTAJE3.png" alt="Pic">
+								<img src="pictures/Web/JbpInmobiliaria/mini/MONTAJE3.png" alt="Pic"/>
+							</a>
+						</li>
+
+					</ul>
+
+				</div><!-- side -->
+				
+			</div>	
+
+
+			<div id="colio_c6" class="colio-content">
+									
+				<div class="main">
+					<h3>Portfolio expanding plugin</h3>
+					
+					<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo <a href="http://google.com/">inventore veritatis</a> et quasi architecto beatae vitae dicta sunt explicabo.</p>
+
+<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
+
+
+
+				</div><!-- main -->
+				
+				<div class="side">
+					<ul class="feed">
+
+
+						<li>
+							<a class="fancybox" href="pictures/Web/JbpInmobiliaria/Platinum/Proyecto_platinum_1.jpg">
+							<img src="pictures/Web/Platinum/mini/Proyecto_platinum_1.jpg" alt="Pic"/>
+							</a>
+						</li>
+
+						<li>
+							<a class="fancybox" href="pictures/Web/JbpInmobiliaria/Platinum/Proyecto_platinum_2.jpg">
+							<img src="pictures/Web/Platinum/mini/Proyecto_platinum_2.jpg" alt="Pic"/>
+							</a>
+						</li>
+
+						<li>
+							<a class="fancybox" href="pictures/Web/JbpInmobiliaria/Platinum/Proyecto_platinum_3.jpg">
+							<img src="pictures/Web/Platinum/mini/Proyecto_platinum_3.jpg" alt="Pic"/>
+							</a>
+						</li>
+
+					</ul>
+
+				</div><!-- side -->
+				
+			</div>	
+
+
+			<div id="colio_c7" class="colio-content">
+									
+				<div class="main">
+					<h3>Portfolio expanding plugin</h3>
+					
+					<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo <a href="http://google.com/">inventore veritatis</a> et quasi architecto beatae vitae dicta sunt explicabo.</p>
+
+<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
+
+
+
+				</div><!-- main -->
+				
+				<div class="side">
+					<ul class="feed">
+
+
+						<li>
+							<a class="fancybox" href="pictures/Web/SusepicaWeb/Proyecto_susepica_1.jpg">
+							<img src="pictures/Web/SusepicaWeb/mini/Proyecto_susepica_1.jpg" alt="Pic"/>
+							</a>
+						</li>
+
+
+						<li>
+							<a class="fancybox" href="pictures/Web/SusepicaWeb/Proyecto_susepica_2.jpg">
+							<img src="pictures/Web/SusepicaWeb/mini/Proyecto_susepica_2.jpg" alt="Pic"/>
+							</a>
+						</li>
+
+						<li>
+							<a class="fancybox" href="pictures/Web/SusepicaWeb/Proyecto_susepica_3.jpg">
+							<img src="pictures/Web/SusepicaWeb/mini/Proyecto_susepica_3.jpg" alt="Pic"/>
+							</a>
+						</li>						
+					</ul>
+
+				</div><!-- side -->
+				
+			</div>	
+
+
+			<div id="colio_c8" class="colio-content">
+									
+				<div class="main">
+					<h3>Portfolio expanding plugin</h3>
+					
+					<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo <a href="http://google.com/">inventore veritatis</a> et quasi architecto beatae vitae dicta sunt explicabo.</p>
+
+<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
+
+
+
+				</div><!-- main -->
+				
+				<div class="side">
+					<ul class="feed">
+
+
+						<li>
+							<a class="fancybox" href="pictures/Web/JbpInmobiliaria/VPDWeb/Proyecto_VDP_1.jpg">
+							<img src="pictures/Web/VPDWeb/mini/Proyecto_VDP_1.jpg" alt="Pic"/>
+							</a>
+						</li>
+
+						<li>
+							<a class="fancybox" href="pictures/Web/JbpInmobiliaria/VPDWeb/Proyecto_VDP_2.jpg">
+							<img src="pictures/Web/VPDWeb/mini/Proyecto_VDP_2.jpg" alt="Pic"/>
+							</a>
+						</li>
+						<li>
+							<a class="fancybox" href="pictures/Web/JbpInmobiliaria/VPDWeb/Proyecto_VDP_3.jpg">
+							<img src="pictures/Web/VPDWeb/mini/Proyecto_VDP_3.jpg" alt="Pic"/>
+							</a>
+						</li>											
+					</ul>
+
+				</div><!-- side -->
+				
+			</div>
+
+
+					
+	</div><!-- container -->
+	
+
+<!-- End Document
+================================================== -->
+</body>
+</html>
