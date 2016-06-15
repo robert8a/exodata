@@ -205,16 +205,22 @@ input[type="button"]:active {
 
 .portfolio .list .thumb {
 	position: relative;
-	width: 215px;
-	height: 134px;
+/*	width: 215px;
+	height: 134px;*/
+	width: 300px;
+	height: 200px;	
 	margin-bottom: 14px;
 	overflow: hidden;
 }
 
 .portfolio .list .thumb img {
-	max-width: 100%;
+/*	max-width: 100%;
 	height: auto;
-	vertical-align: top;
+	vertical-align: top;*/
+
+	max-width: 300px;
+    height: 200px;
+    vertical-align: top;
 }
 
 .portfolio .list .view {
