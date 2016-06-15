@@ -100,7 +100,7 @@ input[type="button"]:active {
 	display: inline-block;
 	margin: 0;
 	padding: 0 10px 21px; 
-	background: url(http://plugins.gravitysign.com/colio/images/heading_stripe.png) repeat-x left bottom; 
+	/*background: url(http://plugins.gravitysign.com/colio/images/heading_stripe.png) repeat-x left bottom; */
 }
 
 /* purchase button */
@@ -256,9 +256,11 @@ input[type="button"]:active {
 }
 
 .portfolio .list .view .button { 
-	position: relative;
-	top: 50%;
-	margin-top: -17px;
+    position: relative;
+    top: 42%;
+    left: -5%;
+    margin-top: -17px;
+    margin-left: -15px;
 }
 
 .portfolio .list h4 {
@@ -266,7 +268,12 @@ input[type="button"]:active {
 }
 
 .portfolio .list h4 a {
-	text-decoration: none;
+text-decoration: none;
+    position: relative;
+    top: 42%;
+    left: -5%;
+    margin-top: -17px;
+    margin-left: -15px;
 }
 
 .portfolio .colio-active-item h4 a {
