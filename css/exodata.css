@@ -237,7 +237,9 @@ background-color: #fff;
     height: 2700px;}
 
 
-
+.container.portafolio {
+    background: #ffffff;
+}
 
 /*media querys*/
 
@@ -361,14 +363,14 @@ background-color: #fff;
 @media only screen and (min-width: 950px){      
          .portafolio {
     
-        height:1125px;
+        height:900px;
 
         }
 
         .portafolio iframe{
         
             width: 100%;
-            height: 1125px;}        
+            height: 900px;}        
 
 
 

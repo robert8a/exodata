@@ -1789,7 +1789,7 @@
 	color: #a33a3a;
 	content: 'Error!';
 	font-weight: 700;
-	font-family: 'Lato', Calibri, Arial, sans-serif;
+font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
 	-webkit-transform-origin: 0% 0%;
 	-webkit-transform: rotateX(-90deg);
 	-moz-transform-origin: 0% 0%;
