@@ -1958,11 +1958,11 @@ div.avia-popup button.mfp-arrow-left:before {
 }
 
 h1, h2, h3, h4, h5, h6, #top .title_container .main-title, tr.pricing-row td, #top .portfolio-title, .callout .content-area, .avia-big-box .avia-innerbox, .av-special-font, .av-current-sort-title{
-	font-family:'Raleway', 'HelveticaNeue', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-family:"Century Gothic", Arial, sans-serif;
 }
 
 body{
-	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif, font-heribertos;
+	font-family: "Century Gothic",CenturyGothic,AppleGothic,sans-serif, font-heribertos;
 }
 
 .container {
