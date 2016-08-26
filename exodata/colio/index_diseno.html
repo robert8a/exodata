@@ -1,0 +1,695 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+
+<!-- Mirrored from plugins.gravitysign.com/colio/index_black.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 06 Jun 2016 19:19:50 GMT -->
+<head>
+
+	<!-- Basic Page Needs
+	================================================== -->
+	<meta charset="utf-8">
+	<title>Colio - jQuery Portfolio Content Expander Plugin</title>
+	<meta name="description" content="Portfolio content expander and details viewer plugin">
+	<meta name="author" content="flGravity">
+	
+	<!-- Mobile Specific Metas
+	================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	
+	<!-- CSS
+	================================================== -->
+	<link rel="stylesheet" href="css/base.css">
+	<link rel="stylesheet" href="css/skeleton.css">
+	<link rel="stylesheet" href="css/layout.css">
+	<link rel="stylesheet" href="http://plugins.gravitysign.com/colio/css/isotope.css">
+	<link rel="stylesheet" href="css/colio.css">
+
+	<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	
+	<!-- JS
+	================================================== -->
+	<script type="text/javascript" src="js/jquery.min.js"></script>
+	<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+	<script type="text/javascript" src="js/jquery.scrollUp.min.js"></script>
+	<script type="text/javascript" src="http://plugins.gravitysign.com/colio/js/jquery.isotope.min.js"></script>
+	<script type="text/javascript" src="js/jquery.colio.min.js"></script>
+	
+	
+	<!-- Colio Black Theme
+	================================================== -->
+	<link rel="stylesheet" href="colio-black/style.css" />
+	<link rel="stylesheet" href="http://plugins.gravitysign.com/colio/colio-black/fancybox/jquery.fancybox.css" />
+	<script type="text/javascript" src="http://plugins.gravitysign.com/colio/colio-black/fancybox/jquery.fancybox.js"></script>
+	
+	
+	<script type="text/javascript">
+		$(document).ready(function(){
+			
+			// "scrollTop" plugin
+			$.scrollUp();
+			
+			// "colio" plugin
+			$('.portfolio .list').colio({
+				id: 'demo_1',
+				theme: 'black',
+				placement: 'inside',
+				hiddenItems: '.isotope-hidden',
+				onContent: function(content){
+					// init "fancybox" plugin
+					$('.fancybox', content).fancybox();
+				}
+			});
+			
+			// "isotope" plugin
+			var filter = '*', isotope_run = function(f) {
+				var list = $('.portfolio .list').isotope({layoutMode : 'fitRows', filter: f});		
+				window.setTimeout(function(){
+					list.trigger('colio','excludeHidden');
+				}, 25);
+			};
+			
+			$('.portfolio .filters a').click(function(){
+				$(this).addClass('filter-active').siblings().removeClass('filter-active');
+				var href = $(this).attr('href').substr(1);
+				filter = href ? '.' + href : '*';
+				isotope_run(filter);
+				return false;
+			});
+			
+			isotope_run(filter);			
+			
+		});
+	</script>
+
+	<!-- Favicons
+	================================================== -->
+	<link rel="shortcut icon" href="images/favicon.ico">
+	<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+
+
+</head>
+<body style="background:white;">
+
+	<div class="container">
+					
+		<header class="sixteen columns main-header">
+		
+			<h1><span style="font-size: 40px; color: #626262; font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif;">PORTAFOLIO DE PROYECTOS</span></h1>
+		
+		</header><!-- header -->
+			
+		
+		<!-- SPACER -->
+		
+	
+	
+		<div class="sixteen columns">
+			
+			
+							
+			<div class="portfolio clearfix">
+							
+
+				
+				<ul class="list">
+					
+					<li class="inspiration"  data-content="#colio_c1">
+						<div class="thumb">
+							<div class="view">
+								<a class="button colio-link" href="#">+</a>
+							</div>
+							<img src="pictures/Diseno/Asia/Proyecto_Asia_Portada.png" alt="Pic"/>
+						</div>
+						<h4><a class="colio-link" href="#">Asia</a></h4>
+					</li>
+					
+					<li class="design inspiration" data-content="#colio_c2">
+<div class="thumb">
+							<div class="view">
+								<a class="button colio-link" href="#">+</a>
+							</div>
+							<img src="pictures/Diseno/Exodata/Proyecto_Exodata_Portada.png" alt="Pic"/>
+						</div>
+						<h4><a class="colio-link" href="#">Exodata</a></h4>
+					</li>
+					
+	<li class="design inspiration" data-content="#colio_c3">
+						<div class="thumb">
+							<div class="view">
+								<a class="button colio-link" href="#">+</a>
+							</div>
+							<img src="pictures/Diseno/EYGBaby/Proyecto_EygBaby_Portada.png" alt="Pic"/>
+						</div>
+						<h4><a class="colio-link" href="#">EYG Baby</a></h4>
+
+					</li>
+
+
+	<li class="design inspiration" data-content="#colio_c4">
+						<div class="thumb">
+							<div class="view">
+								<a class="button colio-link" href="#">+</a>
+							</div>
+							<img src="pictures/Diseno/EYGStyle/eyg style editable-01.jpg" alt="Pic"/>
+						</div>
+						<h4><a class="colio-link" href="#">EYG Style</a></h4>
+
+					</li>
+
+											<li class="design inspiration" data-content="#colio_c5">
+						<div class="thumb">
+							<div class="view">
+								<a class="button colio-link" href="#">+</a>
+							</div>
+							<img src="pictures/Diseno/EYGTextiles/Proyecto_EYG_Portada.png" alt="Pic"/>
+						</div>
+						<h4><a class="colio-link" href="#">EYG Textiles</a></h4>
+
+					</li>
+					
+					<li class="design" data-content="#colio_c6">
+						<div class="thumb">
+							<div class="view">
+								<a class="button colio-link" href="#">+</a>
+							</div>
+							<img src="pictures/Diseno/Global/Proyecto_Global_Portada.png" alt="Pic"/>
+						</div>
+						<h4><a class="colio-link" href="#">Global Consulting</a></h4>
+					</li>
+
+					
+					<li class="design" data-content="#colio_c8">
+						<div class="thumb">
+							<div class="view">
+								<a class="button colio-link" href="#">+</a>
+							</div>
+							<img src="pictures/Diseno/JBP/Proyecto_JBP_Portada.png" alt="Pic"/>
+						</div>
+						<h4><a class="colio-link" href="#">JBP</a></h4>
+					</li>
+					
+					<li class="design inspiration" data-content="#colio_c9">
+						<div class="thumb">
+							<div class="view">
+								<a class="button colio-link" href="#">+</a>
+							</div>
+							<img src="pictures/Diseno/JbpInmobiliaria/Proyecto_JBPinmobilbiaria_Portada.png" alt="Pic"/>
+						</div>
+						<h4><a class="colio-link" href="#">JBP Inmobiliaria</a></h4>
+					</li>
+					
+					<li class="inspiration" data-content="#colio_c10">
+						<div class="thumb">
+							<div class="view">
+								<a class="button colio-link" href="#">+</a>
+							</div>
+							<img src="pictures/Diseno/Jubaopen/BrandingIdentityMockUp-Event.png" alt="Pic"/>
+						</div>
+						<h4><a class="colio-link" href="#">Jubaopen</a></h4>
+
+					</li>	
+
+			
+					
+				</ul><!-- list -->
+
+			</div><!-- portfolio -->
+			
+			
+			<div id="colio_c1" class="colio-content">
+					
+
+				
+				<div class="side">
+					<ul class="feed">
+
+
+						<li>
+							<a class="fancybox" href="pictures/Diseno/Asia/Proyecto_Asia_1.jpg">
+							<img src="pictures/Diseno/Asia/Mini/Proyecto_Asia_1.jpg" alt="Pic"/>
+							</a>
+						</li>
+
+						<li>
+							<a class="fancybox" href="pictures/Diseno/Asia/Proyecto_Asia_2.jpg">
+							<img src="pictures/Diseno/Asia/Mini/Proyecto_Asia_2.jpg" alt="Pic"/>
+							</a>
+						</li>
+
+						<li>
+							<a class="fancybox" href="pictures/Diseno/Asia/Proyecto_Asia_3.jpg">
+							<img src="pictures/Diseno/Asia/Mini/Proyecto_Asia_3.jpg" alt="Pic"/>
+							</a>
+						</li>
+
+						<li>
+							<a class="fancybox" href="pictures/Diseno/Asia/Proyecto_Asia_4.jpg">
+							<img src="pictures/Diseno/Asia/Mini/Proyecto_Asia_4.jpg" alt="Pic"/>
+							</a>
+						</li>
+
+						<li>
+							<a class="fancybox" href="pictures/Diseno/Asia/Proyecto_Asia_11.jpg">
+							<img src="pictures/Diseno/Asia/Proyecto_Asia_11.jpg" alt="Pic"/>
+							</a>
+						</li>
+					</ul>
+				</div><!-- side -->
+				
+			</div><!-- colio-content # colio_c1 -->
+			
+			
+			<div id="colio_c2" class="colio-content">
+									
+
+				
+				<div class="side">
+					<ul class="feed">
+
+
+						<li>
+							<a class="fancybox" href="pictures/Diseno/Exodata/Proyecto_Exodata_1.jpg">
+							<img src="pictures/Diseno/Exodata/Mini/Proyecto_Exodata_1.jpg"/>
+							</a>
+						</li>
+
+						<li>
+							<a class="fancybox" href="pictures/Diseno/Exodata/Proyecto_Exodata_2.jpg">
+							<img src="pictures/Diseno/Exodata/Mini/Proyecto_Exodata_2.jpg"/>
+							</a>
+						</li>
+
+						<li>
+							<a class="fancybox" href="pictures/Diseno/Exodata/Proyecto_Exodata_3.jpg">
+							<img src="pictures/Diseno/Exodata/Mini/Proyecto_Exodata_3.jpg"/>
+							</a>
+						</li>
+
+						<li>
+							<a class="fancybox" href="pictures/Diseno/Exodata/Proyecto_Exodata_4.jpg">
+							<img src="pictures/Diseno/Exodata/Mini/Proyecto_Exodata_4.jpg"/>
+							</a>
+						</li>
+
+						<li>
+							<a class="fancybox" href="pictures/Diseno/Exodata/Proyecto_Exodata_5.jpg">
+							<img src="pictures/Diseno/Exodata/Mini/Proyecto_Exodata_5.jpg"/>
+							</a>
+						</li>
+	
+						<li>
+							<a class="fancybox" href="pictures/Diseno/Exodata/Proyecto_Exodata_6.jpg">
+							<img src="pictures/Diseno/Exodata/Mini/Proyecto_Exodata_6.jpg"/>
+							</a>
+						</li>
+						<li>
+							<a class="fancybox" href="pictures/Diseno/Exodata/Proyecto_Exodata_7.jpg">
+							<img src="pictures/Diseno/Exodata/Mini/Proyecto_Exodata_7.jpg"/>
+							</a>
+						</li>
+
+					</ul>
+
+				</div><!-- side -->
+				
+			</div><!-- colio-content # colio_c2 -->
+				
+
+			<div id="colio_c3" class="colio-content">
+									
+
+				
+				<div class="side">
+					<ul class="feed">
+
+
+						<li>
+							<a class="fancybox" href="pictures/Diseno/EYGBaby/Proyecto_EygBaby_1.jpg">
+							<img src="pictures/Diseno/EYGBaby/Mini/Proyecto_EygBaby_1.jpg" alt="Pic"/>
+							</a>
+						</li>
+
+						<li>
+							<a class="fancybox" href="pictures/Diseno/EYGBaby/Proyecto_EygBaby_2.jpg">
+							<img src="pictures/Diseno/EYGBaby/Mini/Proyecto_EygBaby_2.jpg" alt="Pic"/>
+							</a>
+						</li>
+
+						<li>
+							<a class="fancybox" href="pictures/Diseno/EYGBaby/Proyecto_EygBaby_3.jpg">
+							<img src="pictures/Diseno/EYGBaby/Mini/Proyecto_EygBaby_3.jpg" alt="Pic"/>
+							</a>
+						</li>
+
+						<li>
+							<a class="fancybox" href="pictures/Diseno/EYGBaby/Proyecto_EygBaby_4.jpg">
+							<img src="pictures/Diseno/EYGBaby/Mini/Proyecto_EygBaby_4.jpg" alt="Pic"/>
+							</a>
+						</li>
+
+						<li>
+							<a class="fancybox" href="pictures/Diseno/EYGBaby/Proyecto_EygBaby_5.jpg">
+							<img src="pictures/Diseno/EYGBaby/Mini/Proyecto_EygBaby_5.jpg" alt="Pic"/>
+							</a>
+						</li>
+
+						<li>
+							<a class="fancybox" href="pictures/Diseno/EYGBaby/Proyecto_EygBaby_6.jpg">
+							<img src="pictures/Diseno/EYGBaby/Mini/Proyecto_EygBaby_6.jpg" alt="Pic"/>
+							</a>
+						</li>
+						<li>
+							<a class="fancybox" href="pictures/Diseno/EYGBaby/Proyecto_EygBaby_7.jpg">
+							<img src="pictures/Diseno/EYGBaby/Mini/Proyecto_EygBaby_7.jpg" alt="Pic"/>
+							</a>
+						</li>
+						<li>
+							<a class="fancybox" href="pictures/Diseno/EYGBaby/Proyecto_EygBaby_8.jpg">
+							<img src="pictures/Diseno/EYGBaby/Mini/Proyecto_EygBaby_8.jpg" alt="Pic"/>
+							</a>
+						</li>
+						<li>
+							<a class="fancybox" href="pictures/Diseno/EYGBaby/Proyecto_EygBaby_9.jpg">
+							<img src="pictures/Diseno/EYGBaby/Mini/Proyecto_EygBaby_9.jpg" alt="Pic"/>
+							</a>
+						</li>
+						<li>
+							<a class="fancybox" href="pictures/Diseno/EYGBaby/Proyecto_EygBaby_10.jpg">
+							<img src="pictures/Diseno/EYGBaby/Mini/Proyecto_EygBaby_10.jpg" alt="Pic"/>
+							</a>
+						</li>
+
+					</ul>
+
+				</div><!-- side -->
+				
+			</div><!-- colio-content  -->
+
+
+			<div id="colio_c4" class="colio-content">
+									
+
+				
+				<div class="side">
+					<ul class="feed">
+
+						
+						<li>
+							<a class="fancybox" href="pictures/Diseno/EYGStyle/EYGstyle_Lavar_tw.jpg">
+							<img src="pictures/Diseno/EYGStyle/EYGstyle_Lavar_tw.jpg" alt="Pic"/>
+							</a>
+						</li>
+
+						<li>
+							<a class="fancybox" href="pictures/Diseno/EYGStyle/Hoja1_Catálogo_Eyg.jpg">
+							<img src="pictures/Diseno/EYGStyle/Hoja1_Catálogo_Eyg.jpg" alt="Pic"/>
+							</a>
+						</li>
+
+						<li>
+							<a class="fancybox" href="pictures/Diseno/EYGStyle/Hoja2_Catálogo_Eyg.jpg">
+							<img src="pictures/Diseno/EYGStyle/Hoja2_Catálogo_Eyg.jpg" alt="Pic"/>
+							</a>
+						</li>
+
+						<li>
+							<a class="fancybox" href="pictures/Diseno/EYGStyle/Hoja3_Catálogo_Eyg.jpg">
+							<img src="pictures/Diseno/EYGStyle/Hoja3_Catálogo_Eyg.jpg" alt="Pic"/>
+							</a>
+						</li>
+
+						<li>
+							<a class="fancybox" href="pictures/Diseno/EYGStyle/Hoja4_Catálogo_Eyg.jpg">
+							<img src="pictures/Diseno/EYGStyle/Hoja4_Catálogo_Eyg.jpg" alt="Pic"/>
+							</a>
+						</li>
+<li>
+							<a class="fancybox" href="pictures/Diseno/EYGStyle/Camisa_Obelisco_montaje.jpg">
+							<img src="pictures/Diseno/EYGStyle/Camisa_Obelisco_montaje.jpg" alt="Pic"/>
+							</a>
+						</li>
+
+						<li>
+							<a class="fancybox" href="pictures/Diseno/EYGStyle/Camisa_Sotomontaje_1.jpg">
+							<img src="pictures/Diseno/EYGStyle/Camisa_Sotomontaje_1.jpg" alt="Pic"/>
+							</a>
+						</li>
+
+						<li>
+							<a class="fancybox" href="pictures/Diseno/EYGStyle/Camisa_Sotomontaje_2.jpg">
+							<img src="pictures/Diseno/EYGStyle/Camisa_Sotomontaje_2.jpg" alt="Pic"/>
+							</a>
+						</li>
+						<li>
+							<a class="fancybox" href="pictures/Diseno/EYGStyle/Montajemapa_Hombredegradado.jpg">
+							<img src="pictures/Diseno/EYGStyle/Montajemapa_Hombredegradado.jpg" alt="Pic"/>
+							</a>
+						</li>
+
+						<li>
+							<a class="fancybox" href="pictures/Diseno/EYGStyle/Montajemapadegradado.jpg">
+							<img src="pictures/Diseno/EYGStyle/Montajemapadegradado.jpg" alt="Pic"/>
+							</a>
+						</li>
+																
+					</ul>
+
+				</div><!-- side -->
+				
+			</div>
+
+			<div id="colio_c5" class="colio-content">
+									
+
+				
+				<div class="side">
+					<ul class="feed">
+						<li>
+							<a class="fancybox" href="pictures/Diseno/EYGTextiles/Proyecto_EYG_1.jpg">
+							<img src="pictures/Diseno/EYGTextiles/Mini/Proyecto_EYG_1.jpg" alt="Pic"/>
+							</a>
+						</li>
+
+						<li>
+							<a class="fancybox" href="pictures/Diseno/EYGTextiles/Proyecto_EYG_2.jpg">
+							<img src="pictures/Diseno/EYGTextiles/Mini/Proyecto_EYG_2.jpg" alt="Pic"/>
+							</a>
+						</li>
+
+						<li>
+							<a class="fancybox" href="pictures/Diseno/EYGTextiles/Proyecto_EYG_3.jpg">
+							<img src="pictures/Diseno/EYGTextiles/Mini/Proyecto_EYG_3.jpg" alt="Pic"/>
+							</a>
+						</li>
+
+						<li>
+							<a class="fancybox" href="pictures/Diseno/EYGTextiles/Proyecto_EYG_4.jpg">
+							<img src="pictures/Diseno/EYGTextiles/Mini/Proyecto_EYG_4.jpg" alt="Pic"/>
+							</a>
+						</li>
+						<li>
+							<a class="fancybox" href="pictures/Diseno/EYGTextiles/Proyecto_EYG_5.jpg">
+							<img src="pictures/Diseno/EYGTextiles/Mini/Proyecto_EYG_5.jpg" alt="Pic"/>
+							</a>
+						</li>
+
+					</ul>
+
+				</div><!-- side -->
+				
+			</div>	
+
+
+			<div id="colio_c6" class="colio-content">
+									
+
+				
+				<div class="side">
+					<ul class="feed">
+
+						<li>
+							<a class="fancybox" href="pictures/Diseno/Global/Proyecto_Global_1.jpg">
+							<img src="pictures/Diseno/Global/Mini/Proyecto_Global_1.jpg" alt="Pic"/>
+							</a>
+						</li>				
+
+						<li>
+							<a class="fancybox" href="pictures/Diseno/Global/Proyecto_Global_2.jpg">
+							<img src="pictures/Diseno/Global/Mini/Proyecto_Global_2.jpg" alt="Pic"/>
+							</a>
+						</li>
+						<li>
+							<a class="fancybox" href="pictures/Diseno/Global/Proyecto_Global_3.jpg">
+							<img src="pictures/Diseno/Global/Mini/Proyecto_Global_3.jpg" alt="Pic"/>
+							</a>
+						</li>
+						<li>
+							<a class="fancybox" href="pictures/Diseno/Global/Proyecto_Global_4.jpg">
+							<img src="pictures/Diseno/Global/Mini/Proyecto_Global_4.jpg" alt="Pic"/>
+							</a>
+						</li>
+
+
+					</ul>
+
+				</div><!-- side -->
+				
+			</div>	
+
+
+			<div id="colio_c7" class="colio-content">
+
+				
+
+				
+			</div>	
+
+
+			<div id="colio_c8" class="colio-content">
+									
+				<div class="main">
+				
+				</div><!-- main -->
+				
+				<div class="side">
+					<ul class="feed">
+
+						<li>
+							<a class="fancybox" href="pictures/Diseno/JBP/Proyecto_JBP_1.jpg">
+							<img src="pictures/Diseno/JBP/Mini/Proyecto_JBP_1.jpg" alt="Pic"/>
+							</a>
+						</li>
+
+						<li>
+							<a class="fancybox" href="pictures/Diseno/JBP/Proyecto_JBP_2.jpg">
+							<img src="pictures/Diseno/JBP/Mini/Proyecto_JBP_2.jpg" alt="Pic"/>
+							</a>
+						</li>
+
+						<li>
+							<a class="fancybox" href="pictures/Diseno/JBP/Proyecto_JBP_3.jpg">
+							<img src="pictures/Diseno/JBP/Mini/Proyecto_JBP_3.jpg" alt="Pic"/>
+							</a>
+						</li>
+
+						<li>
+							<a class="fancybox" href="pictures/Diseno/JBP/Proyecto_JBP_4.jpg">
+							<img src="pictures/Diseno/JBP/Mini/Proyecto_JBP_4.jpg" alt="Pic"/>
+							</a>
+						</li>
+						<li>
+							<a class="fancybox" href="pictures/Diseno/JBP/Proyecto_JBP_5.jpg">
+							<img src="pictures/Diseno/JBP/Mini/Proyecto_JBP_5.jpg" alt="Pic"/>
+							</a>
+						</li>
+						<li>
+							<a class="fancybox" href="pictures/Diseno/JBP/Proyecto_JBP_6.jpg">
+							<img src="pictures/Diseno/JBP/Mini/Proyecto_JBP_6.jpg" alt="Pic"/>
+							</a>
+						</li>
+						<li>
+							<a class="fancybox" href="pictures/Diseno/JBP/Proyecto_JBP_7.jpg">
+							<img src="pictures/Diseno/JBP/Mini/Proyecto_JBP_7.jpg" alt="Pic"/>
+							</a>
+						</li>
+						<li>
+							<a class="fancybox" href="pictures/Diseno/JBP/Proyecto_JBP_8.jpg">
+							<img src="pictures/Diseno/JBP/Mini/Proyecto_JBP_8.jpg" alt="Pic"/>
+							</a>
+						</li>															
+
+						<li>
+							<a class="fancybox" href="pictures/Diseno/JBP/Proyecto_JBP_9.jpg">
+							<img src="pictures/Diseno/JBP/Mini/Proyecto_JBP_9.jpg" alt="Pic"/>
+							</a>
+						</li>
+
+
+					</ul>
+
+				</div><!-- side -->
+				
+			</div>
+
+
+<div id="colio_c9" class="colio-content">
+
+				
+				<div class="side">
+					<ul class="feed">
+						<li>
+							<a class="fancybox" href="pictures/Diseno/JbpInmobiliaria/Proyecto_JBPinmobilbiaria_1.jpg">
+							<img src="pictures/Diseno/JbpInmobiliaria/Mini/Proyecto_JBPinmobilbiaria_1.jpg" alt="Pic"/>
+							</a>
+						</li>
+						<li>
+							<a class="fancybox" href="pictures/Diseno/JbpInmobiliaria/Proyecto_JBPinmobilbiaria_2.jpg">
+							<img src="pictures/Diseno/JbpInmobiliaria/Mini/Proyecto_JBPinmobilbiaria_2.jpg" alt="Pic"/>
+							</a>
+						</li>
+						<li>
+							<a class="fancybox" href="pictures/Diseno/JbpInmobiliaria/Proyecto_JBPinmobilbiaria_3.jpg">
+							<img src="pictures/Diseno/JbpInmobiliaria/Mini/Proyecto_JBPinmobilbiaria_3.jpg" alt="Pic"/>
+							</a>
+						</li>
+
+						<li>
+							<a class="fancybox" href="pictures/Diseno/JbpInmobiliaria/Proyecto_JBPinmobilbiaria_4.jpg">
+							<img src="pictures/Diseno/JbpInmobiliaria/Mini/Proyecto_JBPinmobilbiaria_4.jpg" alt="Pic"/>
+							</a>
+						</li>
+
+						<li>
+							<a class="fancybox" href="pictures/Diseno/JbpInmobiliaria/Proyecto_JBPinmobilbiaria_5.jpg">
+							<img src="pictures/Diseno/JbpInmobiliaria/Mini/Proyecto_JBPinmobilbiaria_5.jpg" alt="Pic"/>
+							</a>
+						</li>
+						<li>
+							<a class="fancybox" href="pictures/Diseno/JbpInmobiliaria/Proyecto_JBPinmobilbiaria_6.jpg">
+							<img src="pictures/Diseno/JbpInmobiliaria/Mini/Proyecto_JBPinmobilbiaria_6.jpg" alt="Pic"/>
+							</a>
+						</li>
+						<li>
+							<a class="fancybox" href="pictures/Diseno/JbpInmobiliaria/Proyecto_JBPinmobilbiaria_7.jpg">
+							<img src="pictures/Diseno/JbpInmobiliaria/Mini/Proyecto_JBPinmobilbiaria_7.jpg" alt="Pic"/>
+							</a>
+						</li>
+															
+					</ul>
+
+				</div><!-- side -->
+				
+			</div>
+
+<div id="colio_c10" class="colio-content">
+
+				
+				<div class="side">
+					<ul class="feed">
+						<li>
+							<a class="fancybox" href="pictures/Diseno/Jubaopen/BrandingIdentityMockUp-Event.png">
+							<img src="pictures/Diseno/Jubaopen/BrandingIdentityMockUp-Event.png" alt="Pic"/>
+							</a>
+						</li>
+					
+															
+					</ul>
+
+				</div><!-- side -->
+				
+			</div>
+
+				
+	</div><!-- container -->
+	
+
+<!-- End Document
+================================================== -->
+</body>
+</html>
