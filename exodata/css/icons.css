@@ -1,0 +1,65 @@
+@charset "UTF-8";
+
+/* font-heribertos */
+@font-face {
+  font-family: "font-heribertos";
+  src:url("https://file.myfontastic.com/xjcAE3YQSzz8q5VwR7anPW/fonts/1464356827.eot");
+  src:url("https://file.myfontastic.com/xjcAE3YQSzz8q5VwR7anPW/fonts/1464356827.eot?#iefix") format("embedded-opentype"),
+    url("https://file.myfontastic.com/xjcAE3YQSzz8q5VwR7anPW/fonts/1464356827.woff") format("woff"),
+    url("https://file.myfontastic.com/xjcAE3YQSzz8q5VwR7anPW/fonts/1464356827.ttf") format("truetype"),
+    url("https://file.myfontastic.com/xjcAE3YQSzz8q5VwR7anPW/fonts/1464356827.svg#1464356827") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+[data-icon]:before {
+  font-family: "font-heribertos" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+undefined/**[class^="hs-icon-"]:before,
+[class*=" hs-icon-"]:before {
+  font-family: "font-heribertos" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+**/
+undefined/**.hs-icon-icon-equipo:before {
+  content: "\61";
+}
+undefined**//**.hs-icon-icon-consultor:before {
+  content: "\62";
+}
+undefined**//**.hs-icon-icon-desarrollo:before {
+  content: "\63";
+}
+undefined**//**.hs-icon-icon-it:before {
+  content: "\64";
+}
+undefined**//**.hs-icon-web-diseno-innovador:before {
+  content: "\65";
+}
+undefined**//**.hs-icon-web-nuevas-tecnologias:before {
+  content: "\66";
+}
+undefined**//**.hs-icon-web-todos-y-uno:before {
+  content: "\67";
+}
+undefined**//**.hs-icon-diseo-innovador:before {
+  content: "\68";
+}
+**/

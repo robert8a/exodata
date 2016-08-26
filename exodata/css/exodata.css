@@ -1,0 +1,485 @@
+
+
+.misionvision p {
+    text-align: justify;
+}
+
+.mision {
+     width: 100%;
+    padding: 0 10%;
+}
+
+.mision img {
+ padding: 0px 25%;
+
+}
+
+.vision { 
+    width: 100%;
+    padding: 0 10%;
+}
+
+.vision img {
+ padding: 0px 25%;
+
+}
+
+.fila {
+margin: 15px;
+
+}
+
+.valores {
+
+background: white;
+min-height: 750px;
+
+}
+
+.valores_image {
+    width: 100%;
+
+}
+
+.valores_image img{
+    padding:  10% 25% 0 25%;
+}
+
+.valores_texto {
+    width: 100%;
+    color: black;
+      font-size: 14px;  
+      margin-bottom: 20px;
+}
+
+.valores_texto ul li strong{
+    color: black;
+    font-style: bold;
+  
+}
+.valores_texto ul li {
+
+    margin-top: 5px;
+    margin-left: 20px;
+    list-style-image: url('../img/inicio/vineta.png');
+}
+
+#valorestxt {
+    padding: 0px 25% 0px 35%;
+    color: black;
+}
+
+/* area de mapa y direccion de la empresa*/
+
+.ubicacion {
+
+background: white;
+min-height: 500px;
+text-align: center;
+}
+
+.ubicacion span h3 {
+color: black;
+padding-top: 20px;
+}
+
+.ubicacion_dir {
+    color:black;
+    margin: 10px;
+    text-align: left;
+height: 100%;
+
+}
+
+.ubicacion_dir p strong{
+    color: black;
+    font-style: bold;
+  
+}
+
+
+.pie {
+    text-align: center;
+}
+.footer_logo {
+    display: none;
+}
+
+.footer_logo2 {
+   
+}
+.footer_centro div span{
+    font-size: 10px;
+}
+
+a:link {
+    color: white;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+}
+
+/* mouse over link */
+a:hover {
+    color: green;
+}
+
+/* selected link */
+a:active {
+    color: green;
+}
+
+
+.ubicacion_dir {
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto; 
+}
+
+.ubicacion_map {
+	width: 90%;
+	height: 190px;
+	margin-left: auto;
+	margin-right: auto; 
+}
+
+.fondo-footer-servicios-it	{
+  background-image: url("../img/servicios_it/fondo_footer_servicios_it.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;  
+  background-attachment: fixed; 
+  background-position: bottom center;
+}
+
+.fondo-footer-productos	{
+  background-image: url("../img/productos/fondo_footer_productos.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;  
+  background-attachment: fixed; 
+  background-position: bottom center;
+}
+
+.fondo-footer-diseno {
+  background-image: url("../img/diseno/fondo_footer_diseno.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;  
+  background-attachment: fixed; 
+  background-position: bottom center;
+}
+
+.fondo-footer-web {
+  background-image: url("../img/web/fondo_footer_web.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;  
+  background-attachment: fixed; 
+  background-position: bottom center;
+}
+.productos {
+text-align: center;
+
+}
+
+
+.panel-group .panel {
+    background-color: rgba(255, 0, 0, 0);
+    margin-bottom: 0;
+    border-radius: 4px;
+    border-width: 0px;
+    padding: 5px;
+}
+
+
+.panel-default>.panel-heading {
+    color: #333;
+    background-color: rgb(245, 245, 245);
+    border-color: #337ab7;
+    border-radius: 26px;
+    border-style: solid;
+    border-width: 2px;
+}
+
+.panel-collapse>.panel-body {
+
+    
+    border-color: #ADAEAD;
+    border-radius: 26px;
+    border-style: solid;
+    border-width: 1px;
+	margin-top: 10px;
+}
+
+.panel-default > .panel-heading + .panel-collapse > .panel-body {
+    /*border-top-color: #adaead;*/
+}
+
+#planes {
+	
+	background-color: transparent;
+	border: 0;
+}
+
+.panel {
+    box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+}
+
+
+.portafolio {
+background-color:gray;
+height:2700px;
+
+}
+
+.portafolio iframe{
+background-color: #fff;
+    width: 100%;
+    height: 2700px;}
+
+
+.container.portafolio {
+    background: #ffffff;
+}
+
+/*media querys*/
+
+@media only screen and (min-width: 480px){
+        .portafolio {
+        height:3500px;
+
+        }
+
+        .portafolio iframe{
+        
+            width: 100%;
+            height: 3500px;}
+
+
+        .valores {
+
+        min-height: 680px;
+
+        }
+
+        .valores_image img{
+
+            padding:  10% 25% 0 36%;
+        }
+
+        #valorestxt {
+            padding: 0px 25% 0px 40%;
+            color: black;
+        }
+
+        .pie {
+
+            text-align: center;
+        }
+		
+
+       
+
+}
+
+@media only screen and (min-width: 767px){ 
+          .portafolio {
+
+        height:3400px;
+
+        }      
+
+        .portafolio iframe{
+
+            width: 100%;
+            height: 3400px;}
+
+        .mision img {
+         padding: 0px 25% 0 35%;
+
+        }
+
+        .vision { 
+
+        }
+
+        .vision img {
+         padding: 0px 25% 0 35%;
+
+        }
+        .valores {
+
+        min-height: 620px;
+
+        }
+
+        .valores_image {
+           
+
+            width: 100%;
+
+        }
+
+        .valores_texto {
+
+           width: 100%;
+        }    
+
+        .pie {
+
+
+        }
+
+        .footer_logo2 {
+            position: relative;
+            display: initial;
+            
+        }
+        .footer_centro div span{
+            font-size: 10px;
+        }
+        .footer_centro div ul li{
+            display: inline;
+            padding: 10px;
+        }
+
+        .productos {
+
+        text-align: center;
+        height: 55px;
+
+        }
+        .img_izq {
+        float: left;
+        }
+
+        .img_der {
+        padding: 20px;
+        float: right;
+        }
+
+
+}
+
+@media only screen and (min-width: 950px){      
+         .portafolio {
+    
+        height:900px;
+
+        }
+
+        .portafolio iframe{
+        
+            width: 100%;
+            height: 900px;}        
+
+
+
+        .misionvision {
+        display: inline-flex;
+            margin: 0 auto;
+            height: 100%;
+            width: 100%;
+        }
+
+
+
+        .mision img {
+         padding: 0px 25%;
+
+        }
+
+        .vision { 
+            width: 100%;
+            padding: 0 10%;
+        }
+
+        .vision img {
+         padding: 0px 25%;
+
+        }
+
+        .valores {
+
+        min-height: 380px;
+
+        }
+
+        .valores_image {
+
+            float: left;
+            width: 40%;
+
+        }
+
+        .valores_image img{
+
+            padding:  10% 25% 0 36%;
+        }
+
+        .valores_texto {
+            margin-top: 55px;
+            float: right;
+            width: 60%;
+
+        }  
+
+        #valorestxt {
+            padding: 0px 25% 0px 40%;
+
+        }
+
+
+        .ubicacion {
+
+
+        min-height: 300px;
+
+        }
+
+        .ubicacion_titulo {
+			float:top;
+
+        }
+
+
+        .ubicacion_dir {
+            width: 40%;
+            float: left;
+            margin: 0 0px 0 80px;
+        }
+
+
+        .ubicacion_map {
+			width: 40%;
+			float: right;
+			height: 190px;
+			 margin: 20px 80px 0 0px;
+        }
+
+        .footer_logo {
+            display: inline-block;
+            float:left;
+        }
+
+        .footer_centro {
+display: inline-block;
+
+        }
+
+        .footer_logo2 {
+           display: inline-block;
+           float:right;
+        }
+
+        .footer_logo2 img{
+        width: 100%;
+        height: 100%;
+        }
+        .footer_centro div span{
+            font-size: 10px;
+        }
+
+
+
+
+}
