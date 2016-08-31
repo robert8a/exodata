@@ -69,6 +69,54 @@ min-height: 750px;
     color: black;
 }
 
+/*  DATACENTER */
+
+.datacenter {
+	background: white;
+	min-height: 750px;
+	color: black;	
+	padding: 15px; 
+	text-align: justify;
+}
+
+.datacenter_image {
+    width: 100%;
+}
+
+.datacenter_image img{
+    padding:  10% 25% 0 25%;
+}
+
+.datacenter_texto {
+    width: 100%;
+    color: black;
+	font-size: 14px;  
+	margin-bottom: 20px;
+	padding: 25px;
+}
+
+.datacenter_texto ul li strong{
+    color: black;
+    font-style: bold;
+}
+
+.datacenter_texto ul li {
+    margin-top: 5px;
+    margin-left: 20px;
+    list-style-image: url('../img/inicio/vineta.png');
+}
+
+#datacenter_titulo{
+	padding: 15px 0px 0px 0px;
+	color: black; 
+	margin-left: auto; 
+	margin-right: auto; 
+	width: 100%; 
+	text-align: center;
+}
+
+
+
 /* area de mapa y direccion de la empresa*/
 
 .ubicacion {
@@ -180,7 +228,6 @@ a:active {
 text-align: center;
 
 }
-
 
 .panel-group .panel {
     background-color: rgba(255, 0, 0, 0);
@@ -370,8 +417,12 @@ border: 1px solid #ddd;
             color: black;
         }
 
-        .pie {
+        .datacenter {
+			min-height: 680px;
+			padding: 15px; 
+        }
 
+        .pie {
             text-align: center;
         }
 		
@@ -422,6 +473,11 @@ border: 1px solid #ddd;
 
            width: 100%;
         }    
+
+        .datacenter {
+			min-height: 620px;
+			padding: 15px; 
+        }
 
         .pie {
 
@@ -527,6 +583,26 @@ border: 1px solid #ddd;
 
         }
 
+        .datacenter {
+			min-height: 1080px;
+			padding: 15px 10%; 
+        }
+
+        .datacenter_image {
+            float: left;
+            width: 30%;
+        }
+
+        .datacenter_image img{
+            padding:  10% 25% 0 36%;
+        }
+
+        .datacenter_texto {
+            margin-top: 55px;
+            float: right;
+            width: 70%;
+
+        }  
 
         .ubicacion {
 
