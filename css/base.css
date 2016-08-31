@@ -129,7 +129,7 @@
 	ul ul li, ul ol li,
 	ol ol li, ol ul li { margin-bottom: 6px; }
 
-	.entry-content-wrapper li {  margin-left: 1em; padding:3px 0;}
+	.entry-content-wrapper li {  /*margin-left: 1em;*/ padding:3px 0;}
 	.entry-content-wrapper div li { text-indent: 0; }
 	.entry-content-wrapper .borderlist>li:first-child {  border-top:1px solid; }
 	.entry-content-wrapper .borderlist>li { border-bottom:1px solid; padding: 5px 0; list-style-position: outside; margin:0;}
