@@ -69,6 +69,54 @@ min-height: 750px;
     color: black;
 }
 
+/*  DATACENTER */
+
+.datacenter {
+	background: white;
+	min-height: 750px;
+	color: black;	
+	padding: 15px; 
+	text-align: justify;
+}
+
+.datacenter_image {
+    width: 100%;
+}
+
+.datacenter_image img{
+    padding:  10% 25% 0 25%;
+}
+
+.datacenter_texto {
+    width: 100%;
+    color: black;
+	font-size: 14px;  
+	margin-bottom: 20px;
+	padding: 25px;
+}
+
+.datacenter_texto ul li strong{
+    color: black;
+    font-style: bold;
+}
+
+.datacenter_texto ul li {
+    margin-top: 5px;
+    margin-left: 20px;
+    list-style-image: url('../img/inicio/vineta.png');
+}
+
+#datacenter_titulo{
+	padding: 15px 0px 0px 0px;
+	color: black; 
+	margin-left: auto; 
+	margin-right: auto; 
+	width: 100%; 
+	text-align: center;
+}
+
+
+
 /* area de mapa y direccion de la empresa*/
 
 .ubicacion {
@@ -112,6 +160,18 @@ height: 100%;
     font-size: 10px;
 }
 
+.normal:link {
+    color: black;
+}
+.normal:visited {
+    color: black;
+}
+.normal:hover {
+    color: blue;
+}
+.normal:active {
+    color: blue;
+}
 a:link {
     color: white;
 }
@@ -123,12 +183,12 @@ a:visited {
 
 /* mouse over link */
 a:hover {
-    color: green;
+    color: #608FCA;
 }
 
 /* selected link */
 a:active {
-    color: green;
+    color: #608FCA;
 }
 
 
@@ -180,7 +240,6 @@ a:active {
 text-align: center;
 
 }
-
 
 .panel-group .panel {
     background-color: rgba(255, 0, 0, 0);
@@ -241,6 +300,105 @@ background-color: #fff;
     background: #ffffff;
 }
 
+
+.nav {
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none
+}
+
+.nav>li {
+    position: relative;
+    display: block
+}
+
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+background-color: #f1f1f1;
+    color: #000;
+}
+
+.nav>li>a:focus,.nav>li>a:hover {
+    text-decoration: none;
+background-color: #f1f1f1;
+}
+
+.nav>li.disabled>a {
+    color: #777;
+}
+
+.nav>li.disabled>a:focus,.nav>li.disabled>a:hover {
+    color: #777;
+    text-decoration: none;
+    cursor: not-allowed;
+    background-color: transparent
+}
+
+.nav .open>a,.nav .open>a:focus,.nav .open>a:hover {
+    background-color: #fff;
+    border-color: #337ab7
+}
+
+.nav .nav-divider {
+    height: 1px;
+    margin: 9px 0;
+    overflow: hidden;
+    background-color: #e5e5e5
+}
+
+.nav>li>a>img {
+    max-width: none
+}
+
+.nav-tabs {
+    border-bottom: 1px solid #ddd
+}
+
+.nav-tabs>li {
+    float: left;
+    margin-bottom: -1px
+}
+
+.nav-tabs>li>a {
+    margin-right: 2px;
+    line-height: 1.42857143;
+border: 1px solid #ddd;
+    border-radius: 4px 4px 0 0;
+}
+
+.nav-tabs>li>a:hover {
+    border-color: #eee #eee #ddd
+}
+
+.nav-tabs>li.active>a,.nav-tabs>li.active>a:focus,.nav-tabs>li.active>a:hover {
+    color: #555;
+    cursor: default;
+       background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-bottom-color: transparent
+}
+
+.nav-tabs.nav-justified {
+    width: 100%;
+    border-bottom: 0
+}
+
+.nav-tabs.nav-justified>li {
+    float: none
+}
+
+.nav-tabs.nav-justified>li>a {
+    margin-bottom: 5px;
+    text-align: center
+}
+
+.nav-tabs.nav-justified>.dropdown .dropdown-menu {
+    top: auto;
+    left: auto
+}
+
 /*media querys*/
 
 @media only screen and (min-width: 480px){
@@ -271,8 +429,12 @@ background-color: #fff;
             color: black;
         }
 
-        .pie {
+        .datacenter {
+			min-height: 680px;
+			padding: 15px; 
+        }
 
+        .pie {
             text-align: center;
         }
 		
@@ -324,6 +486,11 @@ background-color: #fff;
            width: 100%;
         }    
 
+        .datacenter {
+			min-height: 620px;
+			padding: 15px; 
+        }
+
         .pie {
 
 
@@ -350,6 +517,11 @@ background-color: #fff;
         }
         .img_izq {
         float: left;
+		font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; 
+		letter-spacing: 2px; 
+		font-size: 28px; 	
+		padding-top: 16px;
+		color: #337ab7;		
         }
 
         .img_der {
@@ -428,6 +600,26 @@ background-color: #fff;
 
         }
 
+        .datacenter {
+			min-height: 1080px;
+			padding: 15px 10%; 
+        }
+
+        .datacenter_image {
+            float: left;
+            width: 30%;
+        }
+
+        .datacenter_image img{
+            padding:  10% 25% 0 36%;
+        }
+
+        .datacenter_texto {
+            margin-top: 55px;
+            float: right;
+            width: 70%;
+
+        }  
 
         .ubicacion {
 

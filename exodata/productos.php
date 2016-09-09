@@ -1,81 +1,15 @@
 <!DOCTYPE html>
 <html lang="en-US" class="html_stretched responsive av-preloader-disabled av-default-lightbox  html_header_top html_logo_left html_main_nav_header html_menu_right html_custom html_header_sticky html_header_shrinking_disabled html_header_transparency html_header_scrolldown html_mobile_menu_phone html_disabled html_header_searchicon_disabled html_content_align_center html_header_unstick_top_disabled html_header_stretch_disabled html_minimal_header html_minimal_header_shadow html_entry_id_12  avia_desktop  js_active  avia_transform  avia_transform3d  avia_transform  avia_transform3d  avia-webkit avia-webkit-41 avia-chrome avia-chrome-41 avia-windows">
-<!-- 	<head>
-		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		<meta charset="UTF-8">
-		<title>Productos</title>
-		<meta name="robots" content="index, follow">
-		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-		<link rel="stylesheet" id="avia-google-webfont" href="css/style2.css" type="text/css" media="all"> 				
-		<link rel="stylesheet" id="avia-bbpress-css" href="css/bbpress-mod.css" type="text/css" media="all">
-		<link rel="stylesheet" id="avia-grid-css" href="css/grid.css" type="text/css" media="all">
-		<link rel="stylesheet" id="avia-base-css" href="css/base.css" type="text/css" media="all">
-		<link rel="stylesheet" id="avia-layout-css" href="css/layout2.css" type="text/css" media="all">
-		<link rel="stylesheet" id="avia-scs-css" href="css/shortcodes2.css" type="text/css" media="all">
-		<link rel="stylesheet" id="avia-popup-css-css" href="css/magnific-popup.css" type="text/css" media="screen">
-		<link rel="stylesheet" id="avia-media-css" href="css/mediaelementplayer.css" type="text/css" media="screen">
-		<link rel="stylesheet" id="avia-print-css" href="css/print.css" type="text/css" media="print">
-		<link rel="stylesheet" id="avia-dynamic-css" href="css/enfold2.css" type="text/css" media="all">
-		<link rel="stylesheet" id="avia-custom-css" href="css/custom.css" type="text/css" media="all">
-				<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">		
-		<link rel='stylesheet' href='css/exodata.css' type='text/css' media='all'/> 
-
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">		
-		
-		<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-		<script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-		<script type="text/javascript" src="js/jquery.js"></script>
-		<script type="text/javascript" src="js/jquery-migrate.min.js"></script>
-		<script type="text/javascript" src="js/avia-compat.js"></script>
-
-		<link rel="canonical" href="index.html">
-		<link rel="shortlink" href="index.html">		
-		
-		<style type="text/css" media="screen">
-			#top #header_main > .container, #top #header_main > .container .main_menu ul:first-child > li > a, #top #header_main #menu-item-shop .cart_dropdown_link { 
-				height:50px; 
-				line-height: 50px; 
-			}
-			.html_top_nav_header .av-logo-container{ 
-				height:40px;  
-			}
-			.html_header_top.html_header_sticky #top #wrap_all #main{ 
-				padding-top:60px; 
-			} 
-		</style>
-	
-		<!--[if lt IE 9]><script src="js/html5shiv.js"></script><![endif]-->
-
-	<!--	<style type="text/css">
-			@font-face {
-				font-family: 'entypo-fontello'; 
-				font-weight: normal; 
-				font-style: normal;
-				src: url('fonts/entypo-fontello.eot?v=3');
-				src: url('fonts/entypo-fontello.eot?v=3#iefix') format('embedded-opentype'), 
-				url('fonts/entypo-fontello.woff?v=3') format('woff'), 
-				url('fonts/entypo-fontello.ttf?v=3') format('truetype'), 
-				url('fonts/entypo-fontello.svg?v=3#entypo-fontello') format('svg');
-			} 
-			#top .avia-font-entypo-fontello, body .avia-font-entypo-fontello, html body [data-av_iconfont='entypo-fontello']:before{ font-family: 'entypo-fontello'; }
-		</style>
-		<style type="text/css" id="av-browser-width-mm"></style><style type="text/css" id="av-browser-height">.avia-section.av-minimum-height .container{opacity: 1; }
-			.av-minimum-height-100 .container, .avia-fullscreen-slider .avia-slideshow, #top.avia-blank .av-minimum-height-100 .container{height:955px;}
-			.av-minimum-height-75 .container	{height:716px;}
-			.av-minimum-height-50 .container {height:478px;}
-			.av-minimum-height-25 .container {height:239px;}
-			.avia-builder-el-0.av-minimum-height-100 .container, .avia-builder-el-0.avia-fullscreen-slider .avia-slideshow{height:955px;}
-			#top .av-solo-full .avia-slideshow {min-height:0px;}
-			#top .av-element-cover iframe, #top .av-element-cover embed, #top .av-element-cover object, #top .av-element-cover video{height:1070.4375px; top: -57.71875px;}
-			#top .avia-builder-el-0 .av-element-cover iframe, #top .avia-builder-el-0 .av-element-cover embed, #top .avia-builder-el-0 .av-element-cover object, #top .avia-builder-el-0 .av-element-cover video{height:1070.4375px; top: -57.71875px;}
-		</style>
-	</head>	 -->
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<meta charset="UTF-8">
-		<title>Productos</title>
+		<title>Desarrollo Web</title>
 		<meta name="robots" content="index, follow">
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<!-- Latest compiled and minified CSS -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+		<!-- Optional theme -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
 		<link rel="stylesheet" id="avia-google-webfont" href="css/style2.css" type="text/css" media="all"> 				
 		<link rel="stylesheet" id="avia-bbpress-css" href="css/bbpress-mod.css" type="text/css" media="all">
 		<link rel="stylesheet" id="avia-grid-css" href="css/grid.css" type="text/css" media="all">
@@ -88,22 +22,14 @@
 		<link rel="stylesheet" id="avia-dynamic-css" href="css/enfold2.css" type="text/css" media="all">
 		<link rel="stylesheet" id="avia-custom-css" href="css/custom.css" type="text/css" media="all">		
 		<link rel='stylesheet' href='css/exodata.css' type='text/css' media='all'/> 	
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">		<link rel='stylesheet' href='css/bootstrap.min.css' type='text/css' media='all'/> 			
-		
-
-
-
-
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">		
 		<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 		<script type="text/javascript" src="js/jquery-migrate.min.js"></script>
-		<script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+		<!-- Latest compiled and minified JavaScript -->
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>	
 		<script type="text/javascript" src="js/avia-compat.js"></script>
-
-
-
 		<link rel="canonical" href="index.html">
 		<link rel="shortlink" href="index.html">		
-		
 		<style type="text/css" media="screen">
 			#top #header_main > .container, #top #header_main > .container .main_menu ul:first-child > li > a, #top #header_main #menu-item-shop .cart_dropdown_link { 
 				height:50px; 
@@ -115,12 +41,8 @@
 			.html_header_top.html_header_sticky #top #wrap_all #main{ 
 				padding-top:60px; 
 			} 
-		</style>
-
-	</style>		
-		
+		</style>	
 		<!--[if lt IE 9]><script src="js/html5shiv.js"></script><![endif]-->
-
 		<style type="text/css">
 			@font-face {
 				font-family: 'entypo-fontello'; 
@@ -144,13 +66,10 @@
 			#top .av-element-cover iframe, #top .av-element-cover embed, #top .av-element-cover object, #top .av-element-cover video{height:1070.4375px; top: -57.71875px;}
 			#top .avia-builder-el-0 .av-element-cover iframe, #top .avia-builder-el-0 .av-element-cover embed, #top .avia-builder-el-0 .av-element-cover object, #top .avia-builder-el-0 .av-element-cover video{height:1070.4375px; top: -57.71875px;}
 		</style>
-
 		<!-- fuente heribertos -->
-	<link href="https://file.myfontastic.com/xjcAE3YQSzz8q5VwR7anPW/icons.css" rel="stylesheet">
-
+		<link href="https://file.myfontastic.com/xjcAE3YQSzz8q5VwR7anPW/icons.css" rel="stylesheet">
 	</head>	
-
-
+	
 	<body id="top" class="home page page-id-12 page-template-default stretched open_sans ">
 		<div id="wrap_all">
 			<a id="advanced_menu_hide" href="#" aria-hidden="true" data-av_icon="" data-av_iconfont="entypo-fontello"></a>
@@ -308,6 +227,8 @@
 					</div>
 				</div>	
 				
+				
+				
 			
 				<div id="customers" class="avia-section alternate_color avia-no-border-styling avia-bg-style-scroll  avia-builder-el-25  el_after_av_layout_row  el_before_av_section  container_wrap fullsize">
 					<div>
@@ -325,317 +246,843 @@
 						</div>
 					</div>
 				</div>
-			
-
-		
+					
+				<!-- INICIO PESTAÑAS -->	
 				<div id="faq" class="avia-section main_color avia-section-huge avia-no-border-styling avia-bg-style-scroll  avia-builder-el-38  el_after_av_section  el_before_av_button_big  container_wrap fullsize">
 					<div class="container">
 						<div class="template-page content  av-content-full alpha units">
 							<div class="post-entry post-entry-type-page post-entry-12">
 								<div class="entry-content-wrapper clearfix">
-									<div style="padding-bottom:0px;font-size:35px;" class="av-special-heading av-special-heading-h2  blockquote modern-quote modern-centered  avia-builder-el-39  el_before_av_hr  avia-builder-el-first   av-inherit-size">
-										<h1 >
-											DISEÑO DE PORTALES WEB
-										</h1>
-										<br>
-										<span style="font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-style: italic; line-height: 100%;">
-											La página web es la tarjeta de presentación de tu empresa ante el mundo 
-										</span>
-										<br><br>											
-										<p style="font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">
-											Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. 
-											Cum sociis natoque penatibus et magnis  montes, nascetur ridiculus mus. 
-											Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. 
-											Cum sociis natoque penatibus et magnis  montes, nascetur ridiculus mus.
-										</p>											
-									</div>									
-									<div style=" margin-top:30px; margin-bottom:30px;" class="hr hr-custom hr-center hr-icon-no  avia-builder-el-40  el_after_av_heading  el_before_av_one_half ">
-										<span class="hr-inner   inner-border-av-border-fat" style=" width:50px;">
-											<span class="hr-inner-style"></span>
-										</span>
-									</div>
-									<div class="flex_column av_one_half  av-animated-generic pop-up  flex_column_div av-zero-column-padding first  avia-builder-el-41  el_after_av_hr  el_before_av_one_half   avia_start_animation avia_start_delayed_animation" style="border-radius:0px; ">
-										<div style="padding-bottom:10px;" class="av-special-heading av-special-heading-h3  blockquote modern-quote  avia-builder-el-42  el_before_av_textblock  avia-builder-el-first  ">
-											<h3 class="av-special-heading-tag" itemprop="headline">How does the beta trial work?</h3>
-											<div class="special-heading-border">
-												<div class="special-heading-inner-border"></div>
-											</div>
-										</div>
-										<section class="av_textblock_section">
-											<div class="avia_textblock " style="font-size:14px; " itemprop="text">
-												<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. 
-												Cum sociis natoque penatibus et magnis <a href="#">dis parturient</a> montes, nascetur ridiculus mus.</p>
-											</div>
-										</section>
-									</div>
-									<div class="flex_column av_one_half  av-animated-generic pop-up  flex_column_div av-zero-column-padding   avia-builder-el-44  el_after_av_one_half  el_before_av_one_half   avia_start_animation avia_start_delayed_animation" style="border-radius:0px; ">
-										<div style="padding-bottom:10px;" class="av-special-heading av-special-heading-h3  blockquote modern-quote  avia-builder-el-45  el_before_av_textblock  avia-builder-el-first  ">
-											<h3 class="av-special-heading-tag" itemprop="headline">Can I change plans later?</h3>
-											<div class="special-heading-border">
-												<div class="special-heading-inner-border"></div>
-											</div>
-										</div>
-										<section class="av_textblock_section">
-											<div class="avia_textblock " style="font-size:14px; " itemprop="text">
-												<p>Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, 
-												venenatis vitae, justo. Nullam dictum felis eu pede mollis <strong>pretium</strong>. Integer tincidunt.</p>
-											</div>
-										</section>
-									</div>
-									<div class="flex_column av_one_half  av-animated-generic pop-up  flex_column_div av-zero-column-padding first  avia-builder-el-47  el_after_av_one_half  el_before_av_one_half  column-top-margin avia_start_animation avia_start_delayed_animation" style="border-radius:0px; ">
-										<div style="padding-bottom:10px;" class="av-special-heading av-special-heading-h3  blockquote modern-quote  avia-builder-el-48  el_before_av_textblock  avia-builder-el-first  ">
-											<h3 class="av-special-heading-tag" itemprop="headline">How do you handle delivery?</h3>
-											<div class="special-heading-border">
-												<div class="special-heading-inner-border"></div>
-											</div>
-										</div>
-										<section class="av_textblock_section">
-											<div class="avia_textblock " style="font-size:14px; " itemprop="text">
-												<p>Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, 
-												consequat vitae, eleifend ac, enim. <strong>Aliquam lorem</strong> ante, dapibus in, viverra quis, feugiat a, tellus.</p>
-											</div>
-										</section>
-									</div>
-									<div class="flex_column av_one_half  av-animated-generic pop-up  flex_column_div av-zero-column-padding   avia-builder-el-50  el_after_av_one_half  avia-builder-el-last  column-top-margin avia_start_animation avia_start_delayed_animation" style="border-radius:0px; ">
-										<div style="padding-bottom:10px;" class="av-special-heading av-special-heading-h3  blockquote modern-quote  avia-builder-el-51  el_before_av_textblock  avia-builder-el-first  ">
-											<h3 class="av-special-heading-tag" itemprop="headline">Which payment options do I have?</h3>
-											<div class="special-heading-border">
-												<div class="special-heading-inner-border"></div>
-											</div>
-										</div>
-										<section class="av_textblock_section">
-											<div class="avia_textblock " style="font-size:14px; " itemprop="text">
-												<p>Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. In enim justo, 
-												rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.</p>
-											</div>
-										</section>
-									</div>
-								</div>
-							</div>
-						</div><!-- close content main div -->
-					</div>
-				</div>
-				
-				<div id="faq" class="avia-section main_color avia-section-huge avia-no-border-styling avia-bg-style-scroll  avia-builder-el-38  el_after_av_section  el_before_av_button_big  container_wrap fullsize">
-					<div class="container">									
-						<div class="wrapper">
-							<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-								<div class="DataVPS">
-									<div class="panel panel-default">
-										<div class="panel-heading" role="tab" id="headingOne">
-											<h4 class="panel-title">
-												<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-													<div class="productos">
-														<div class="img_izq"><img src="img/productos/datavps_logo.png" alt=""></div>
-														<div class="img_der"><img src="img/productos/virtual_private_servers.png" alt=""></div>
+									<a name="tabs"></a>
+									<ul class="nav nav-tabs">
+										<li class="active" id="vps_tab"><a href="#datavps" data-toggle="tab" aria-expanded="false"><img src="img/productos/datavps_150.png" width="150" height="34"></a></li>
+										<li class="" id="server_tab"><a href="#dataserver" data-toggle="tab" aria-expanded="false"><img src="img/productos/dataserver_150.png" width="150" height="35"></a></li>
+										<li class="" id="host_tab"><a href="#datahost" data-toggle="tab" aria-expanded="false"><img src="img/productos/datahost_150.png" width="150" height="34"></a></li>
+									</ul>
+									<div class="cajaPestana" style="border: solid 1px #ddd; margin-left: 7px; margin-top: -4px; padding: 25px; background-color: #fff;">
+										<div id="myTabContent" class="tab-content">
+										
+<!----------------------------------------- INICIO - DATAVPS -------------------------------------------------------------------------------------------------------- -->	
+										
+											<div class="tab-pane fade active in" id="datavps">
+												<div style="padding-bottom:0px;font-size:35px;" class="av-special-heading av-special-heading-h2  blockquote modern-quote modern-centered  avia-builder-el-39  el_before_av_hr  avia-builder-el-first   av-inherit-size">
+												
+													<img src="img/productos/datavps_500.png" width="500" height="112">
+													
+											
+													<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">
+														Hoy en día es indispensable para toda empresa disponer de una plataforma tecnológica que le permita la 
+														ejecución de sus procesos operativos, financieros y comunicacionales. Esto por lo general representa 
+														una gran inversión en hardware: servidores, switches, routers, cables, racks, etc, sin contar con lo 
+														que implica el correcto hospedaje y mantenimiento de dichos equipos en cuanto a espacio, temperatura, 
+														personal entre otras. 
+													</p>	
+													<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">
+														Los servidores virtuales vienen a solucionar estos problemas ya que le permiten de forma rápida, 
+														escalable, eficiente, versátil y segura disponer de la infraestructura tecnológica que necesita su 
+														empresa. Olvídese de comprar los equipos, de configurarlos y mantenerlos, con nuestros servidores 
+														virtuales  <b>DataVPS</b>  nosotros en Exodata Solutions nos encargamos de sus necesidades tecnológicas y 
+														así usted puede dedicarse a lo que realmente conoce… su negocio.
+													</p>
+													<div class="row">
+														<div class="col-md-8">												
+															<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">
+																<b>DataVPS</b>  también le ofrece los siguientes beneficios:
+																<ul>
+																	<li>Permite consolidar servidores y operar con mayor eficiencia</li>
+																	<li>Ahorro energético, haciendo que nuestra oficina o negocio se convierta en una “empresa verde”</li>
+																	<li>Es más sencillo controlar varios servidores virtuales que varios físicos</li>
+																	<li>La posibilidad de reducir el tiempo de recuperación ante un fallo, y el tiempo para la copia de seguridad</li>
+																	<li>Probar las configuraciones de un software es más sencillo</li>
+																	<li>Se pueden utilizar aplicaciones antiguas que no son compatibles con los nuevos sistemas operativos mediante la creación de un servidor virtual sólo para ellos</li>
+																	<li>Se pueden ejecutar aplicaciones multiplataforma de una manera más sencilla y eficiente</li>
+																</ul>
+															</p>
+														</div>
+																
+														<div class="col-md-4">
+															<img src="img/plugi.png" width="80%">
+														</div>
 													</div>
-												</a>
-											</h4>
-										</div>
-										<div id="collapseOne" class="panel-collapse collapse " role="tabpanel" aria-labelledby="headingOne">
-											<div style="overflow-x:auto;" class="panel-body">
-												<table id="planes">
-													<tr>
-														<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">Especificaciones T&eacute;cnicas</th>
-														<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">1 GB</th>
-														<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">2 GB</th>
-														<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">4 GB</th>
-														<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px;">Personalizado</th>
-													</tr>
-													<tr style="height:5px;"><td colspan="5" style="border-bottom: solid 1px #CECECE;"></td></tr>
-													<tr>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">
-															Memoria
-														</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1 GB</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">2 GB</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">4 GB</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000;">
-															Nos ajustamos a sus necesidades
-														</td>
-													</tr>
-													<tr>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 7px 0 0 7px; border-right: solid 1px #CECECE; text-transform: uppercase;">
-															Almacenamiento
-														</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">25GB SATA (C:)</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">40GB SATA (C:) + 10GB SATA (D:)</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">60GB SATA (C:) + 40GB SATA (D:)</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 0 7px 7px 0;">
-															Nos ajustamos a sus necesidades
-														</td>
-													</tr>
-													<tr>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">CPU Cores</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">2</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000;">3</td>
-													</tr>	
-													<tr>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 7px 0 0 7px; border-right: solid 1px #CECECE; text-transform: uppercase;">
-															Ancho de Banda
-														</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">1 Mbps Sin limite</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">2 Mbps Sin limite</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">2 Mbps Sin limite</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 0 7px 7px 0;">
-															Mas de 10 Mbps
-														</td>
-													</tr>	
-													<tr>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">Proteccion RAID</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">No, RAID 0</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">Si, RAID 5</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">Si, RAID 5</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000;">Si, RAID 0 / 1 / 5</td>
-													</tr>	
-													<tr>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 7px 0 0 7px; border-right: solid 1px #CECECE; text-transform: uppercase;">
-															VHD Backup
-														</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">No</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Uno por Mes</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Uno cada 3 semanas</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 0 7px 7px 0;">
-															Uno cada 2 semanas
-														</td>
-													</tr>	
-													<tr>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">Dedicated IPs</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000;">2</td>
-													</tr>		
-													<tr>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 7px 0 0 7px; border-right: solid 1px #CECECE; text-transform: uppercase;">
-															Soporte Tecnico
-														</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Via Email unicamente</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Via Email + Live Chat</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Via Email + Live Chat</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 0 7px 7px 0;">
-															Via Email + Live Chat
-														</td>
-													</tr>	
-												</table>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="DataCLoud">
-									<div class="panel panel-default">
-										<div class="panel-heading" role="tab" id="headingTwo">
-											<h4 class="panel-title">
-												<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-													<div class="productos">
-														<div class="img_izq"><img src="img/productos/datacloud_logo.png" alt=""></div>
-														<div class="img_der"><img src="img/productos/share_your_world.png" alt=""></div>
+													<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">	
+														Los servidores <b>DataVPS</b>  son soluciones ideales para alojamiento de aplicaciones, alojamiento web, el 
+														software como Proveedores de Servicio (SaaS), streaming y varios otros fines que requieren recursos 
+														de calidad.
+													</p>
+													<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">	
+														Como parte de nuestras políticas de seguridad la información contenida dentro de su(s) <b>DataVPS</b> está 
+														segura por medio de la creación de imágenes o respaldos semanales ejecutados en horas de la noche 
+														sin ningún tipo de interrupción del servicio.
+													</p>						
+													<!--
+													<span style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-style: italic; line-height: 100%;">
+														Planes											
+													</span>
+													-->
+													<div id="faq" class="avia-section main_color avia-section-huge avia-no-border-styling avia-bg-style-scroll  avia-builder-el-38  el_after_av_section  el_before_av_button_big  container_wrap fullsize">
+														<div class="container">									
+															<div class="wrapper">
+																<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+																
+																	<!-- PLANES -->
+																	<div>
+																		<div class="panel panel-default">
+																			<div class="panel-heading" role="tab" id="headingOne">
+																				<h4 class="panel-title">
+																					<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+																						<div class="productos">
+																							<div class="img_izq">Planes</div>
+																							<div class="img_der"></div>
+																						</div>
+																					</a>
+																				</h4>
+																			</div>
+																			<div id="collapseOne" class="panel-collapse collapse " role="tabpanel" aria-labelledby="headingOne">
+																				<div style="overflow-x:auto;border-top-color:#ADAEAD" class="panel-body">
+																					<table id="planes">
+																						<tr>
+																							<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">Especificaciones T&eacute;cnicas</th>
+																							<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">1 GB</th>
+																							<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">2 GB</th>
+																							<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">4 GB</th>
+																							<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px;">Personalizado</th>
+																						</tr>
+																						<tr style="height:5px;"><td colspan="5" style="border-bottom: solid 1px #CECECE;"></td></tr>
+																						<tr>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">
+																								Memoria
+																							</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1 GB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">2 GB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">4 GB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000;">
+																								Nos ajustamos a sus necesidades
+																							</td>
+																						</tr>
+																						<tr>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 7px 0 0 7px; border-right: solid 1px #CECECE; text-transform: uppercase;">
+																								Almacenamiento
+																							</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">25GB SATA (C:)</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">40GB SATA (C:) + 10GB SATA (D:)</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">60GB SATA (C:) + 40GB SATA (D:)</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 0 7px 7px 0;">
+																								Nos ajustamos a sus necesidades
+																							</td>
+																						</tr>
+																						<tr>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">CPU Cores</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">2</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000;">3</td>
+																						</tr>	
+																						<tr>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 7px 0 0 7px; border-right: solid 1px #CECECE; text-transform: uppercase;">
+																								Ancho de Banda
+																							</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">1 Mbps Sin limite</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">2 Mbps Sin limite</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">2 Mbps Sin limite</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 0 7px 7px 0;">
+																								Mas de 10 Mbps
+																							</td>
+																						</tr>	
+																						<tr>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">Proteccion RAID</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">No, RAID 0</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">Si, RAID 5</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">Si, RAID 5</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000;">Si, RAID 0 / 1 / 5</td>
+																						</tr>	
+																						<tr>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 7px 0 0 7px; border-right: solid 1px #CECECE; text-transform: uppercase;">
+																								VHD Backup
+																							</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">No</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Uno por Mes</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Uno cada 3 semanas</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 0 7px 7px 0;">
+																								Uno cada 2 semanas
+																							</td>
+																						</tr>	
+																						<tr>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">Dedicated IPs</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000;">2</td>
+																						</tr>		
+																						<tr>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 7px 0 0 7px; border-right: solid 1px #CECECE; text-transform: uppercase;">
+																								Soporte Tecnico
+																							</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Via Email unicamente</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Via Email + Live Chat</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Via Email + Live Chat</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 0 7px 7px 0;">
+																								Via Email + Live Chat
+																							</td>
+																						</tr>	
+																					</table>
+																				</div>
+																			</div>
+																		</div>
+																	</div>
+																	<!-- SISTEMAS OPERTATIVOS PRE-INSTALADOS -->
+																	<div>
+																		<div class="panel panel-default">
+																			<div class="panel-heading" role="tab" id="headingTwo">
+																				<h4 class="panel-title">
+																					<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+																						<div class="productos">
+																							<div class="img_izq">Sistemas Operativos pre-instalados</div>
+																							<div class="img_der"></div>
+																						</div>
+																					</a>
+																				</h4>
+																			</div>
+																			<div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+																				<div class="panel-body" style="overflow-x:auto;border-top-color:#ADAEAD;">
+																					<div class="row">
+																						<div class="col-md-4">	
+																							<img src="img/logos/archlinux_300.png">
+																						</div>
+																						<div class="col-md-4">	
+																							<img src="img/logos/centos_300.png">
+																						</div>																				
+																						<div class="col-md-4">	
+																							<img src="img/logos/citrix_300.png">
+																						</div>			
+																					</div>		
+																					<div class="row">
+																						<div class="col-md-4">	
+																							<img src="img/logos/debian_300.png">
+																						</div>
+																						<div class="col-md-4">	
+																							<img src="img/logos/fedora_300.png">
+																						</div>																				
+																						<div class="col-md-4">	
+																							<img src="img/logos/freebsd_300.png">
+																						</div>			
+																					</div>	
+																					<div class="row">
+																						<div class="col-md-4">	
+																							<img src="img/logos/ubuntu_300.png">
+																						</div>
+																						<div class="col-md-4">	
+																							<img src="img/logos/vmware_300.png">
+																						</div>																				
+																						<div class="col-md-4">	
+																							<img src="img/logos/windows_300.png">
+																						</div>			
+																					</div>																					
+																				</div>
+																			</div>
+																		</div>
+																	</div>
+																	<!-- DEMO -->
+																	<div>
+																		<div class="panel panel-default">
+																			<div class="panel-heading" role="tab" id="headingThree">
+																				<h4 class="panel-title">
+																					<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+																						<div class="productos">
+																							<div class="img_izq">Demo</div>
+																							<div class="img_der"></div>
+																						</div>
+																					</a>
+																				</h4>
+																			</div>
+																			<div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+																				<div style="overflow-x:auto;border-top-color:#ADAEAD;" class="panel-body">	
+																					<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">																				
+																						Confiado en la calidad de nuestros productos, le ofrecemos un demo de un 
+																						DataVPS por 15 días para que pueda juzgar "sin costo alguno" las virtudes 
+																						de nuestro producto. ¡Contáctanos y solicita tu demo ya!
+																					</p>
+																				</div>
+																			</div>
+																		</div>
+																	</div>
+								
+																</div>
+															</div>
+														</div>
+													</div>	
+													<br><hr><br>
+													<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">
+														Conoce más de la infraestructura que soporta este y otros productos y servicios de Exodata Solutions, 
+														ven y conoce todo sobre nuestro <a class="normal" style="color:black;" href="#">Datacenter</a>.
+													</p>	
+													<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">
+														Conoce también nuestros productos de hosting y servidores dedicados:
+													</p>	
+													<div class="row">
+														<div class="col-md-6">
+															<a href="#datahost" data-toggle="tab" aria-expanded="false" onclick="document.getElementById('host_tab').className='active'; document.getElementById('server_tab').className=''; document.getElementById('vps_tab').className=''; document.location='#tabs';"><img src="img/productos/datahost_500.png" width="500" height="115"></a>
+														</div>
+														<div class="col-md-6">	
+															<a href="#dataserver" data-toggle="tab" aria-expanded="false" onclick="document.getElementById('server_tab').className='active'; document.getElementById('vps_tab').className=''; document.getElementById('host_tab').className=''; document.location='#tabs';"><img src="img/productos/dataserver_500.png" width="500" height="118"></a>
+														</div>
 													</div>
-												</a>
-											</h4>
-										</div>
-										<div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
-											<div class="panel-body"></div>
-										</div>
-									</div>
-								</div>
-
-								<div class="DataHost">
-									<div class="panel panel-default">
-										<div class="panel-heading" role="tab" id="headingThree">
-											<h4 class="panel-title">
-												<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-													<div class="productos">
-														<div class="img_izq"><img src="img/productos/datahost_logo.png" alt=""></div>
-														<div class="img_der"><img src="img/productos/best_hosting_service.png" alt=""></div>
-													</div>
-												</a>
-											</h4>
-										</div>
-										<div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
-											<div style="overflow-x:auto;"  class="panel-body">								              
-												<table>
-													<tr>
-														<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">Especificaciones T&eacute;cnicas</th>
-														<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">500 MB</th>
-														<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">800 MB</th>
-														<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">1.2 GB</th>
-														<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">2.0 GB</th>
-														<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px;">4.0 GB</th>
-													</tr>
-													<tr style="height:5px;"><td colspan="6" style="border-bottom: solid 1px #CECECE;"></td></tr>
-													<tr>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">
-															Espacio real en Disco
-														</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">500 MB</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">800 MB</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1200 MB</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">2000 MB</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000;">4000 MB</td>
-													</tr>
-													<tr>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 7px 0 0 7px; border-right: solid 1px #CECECE; text-transform: uppercase;">
-															Espacio en disco para autobackups
-														</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">2400 MB</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">3000 MB</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">4500 MB</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">6000 MB</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 0 7px 7px 0;">10000 MB</td>
-													</tr>
-													<tr>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">
-															Transferencia mensual
-														</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">20 GB</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">26 GB</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">26 GB</td>
-														<td>65 GB</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000;">80 GB</td>
-													</tr>	
-													<tr>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 7px 0 0 7px; border-right: solid 1px #CECECE; text-transform: uppercase;">
-															Bases de datos MySQL
-														</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">2</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">4</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">4</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">4</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 0 7px 7px 0;">4</td>
-													</tr>	
-													<tr>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">
-															Cuentas de e-mail
-														</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">3</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">5</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">6</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">10</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000;">15</td>
-													</tr>	
-													<tr>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 7px 0 0 7px; border-right: solid 1px #CECECE; text-transform: uppercase;">
-															Listas de Correo
-														</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">1</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">2</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">4</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">10</td>
-														<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 0 7px 7px 0;">10</td>
-													</tr>	
-												</table>
+												</div>
+												<div style=" margin-top:30px; margin-bottom:30px;" class="hr hr-custom hr-center hr-icon-no  avia-builder-el-40  el_after_av_heading  el_before_av_one_half ">
+													<span class="hr-inner   inner-border-av-border-fat" style=" width:50px;">
+													<span class="hr-inner-style"></span>
+													</span>
+												</div>
 											</div>
+<!----------------------------------------- FIN     -   DATAVPS -------------------------------------------------------------------------------------------------------- -->	
+										
+<!----------------------------------------- INICIO - DATASERVER -------------------------------------------------------------------------------------------------------- -->	
+											
+											<div class="tab-pane fade" id="dataserver">
+												<div style="padding-bottom:0px;font-size:35px;" class="av-special-heading av-special-heading-h2  blockquote modern-quote modern-centered  avia-builder-el-39  el_before_av_hr  avia-builder-el-first   av-inherit-size">
+													<img src="img/productos/dataserver_500.png" width="500" height="118">
+													<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">
+														Hoy en día es indispensable para toda empresa disponer de una plataforma tecnológica que le permita la 
+														ejecución de sus procesos operativos, financieros y comunicacionales. Esto por lo general representa 
+														una gran inversión en hardware: servidores, switches, routers, cables, racks, etc, sin contar con lo 
+														que implica el correcto hospedaje y mantenimiento de dichos equipos en cuanto a espacio, temperatura, 
+														personal entre otras. 
+													</p>	
+													<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">
+														Los servidores virtuales vienen a solucionar estos problemas ya que le permiten de forma rápida, 
+														escalable, eficiente, versátil y segura disponer de la infraestructura tecnológica que necesita su 
+														empresa. Olvídese de comprar los equipos, de configurarlos y mantenerlos, con nuestros servidores 
+														virtuales  <b>DataVPS</b>  nosotros en Exodata Solutions nos encargamos de sus necesidades tecnológicas y 
+														así usted puede dedicarse a lo que realmente conoce… su negocio.
+													</p>
+													<div class="row">
+														<div class="col-md-8">												
+															<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">
+																<b>DataVPS</b>  también le ofrece los siguientes beneficios:
+																<ul>
+																	<li>Permite consolidar servidores y operar con mayor eficiencia</li>
+																	<li>Ahorro energético, haciendo que nuestra oficina o negocio se convierta en una “empresa verde”</li>
+																	<li>Es más sencillo controlar varios servidores virtuales que varios físicos</li>
+																	<li>La posibilidad de reducir el tiempo de recuperación ante un fallo, y el tiempo para la copia de seguridad</li>
+																	<li>Probar las configuraciones de un software es más sencillo</li>
+																	<li>Se pueden utilizar aplicaciones antiguas que no son compatibles con los nuevos sistemas operativos mediante la creación de un servidor virtual sólo para ellos</li>
+																	<li>Se pueden ejecutar aplicaciones multiplataforma de una manera más sencilla y eficiente</li>
+																</ul>
+															</p>
+														</div>																
+														<div class="col-md-4">
+															<img src="img/plugi.png" width="80%">
+														</div>
+													</div>
+													<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">	
+														Los servidores <b>DataVPS</b>  son soluciones ideales para alojamiento de aplicaciones, alojamiento web, el 
+														software como Proveedores de Servicio (SaaS), streaming y varios otros fines que requieren recursos 
+														de calidad.
+													</p>
+													<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">	
+														Como parte de nuestras políticas de seguridad la información contenida dentro de su(s) <b>DataVPS</b> está 
+														segura por medio de la creación de imágenes o respaldos semanales ejecutados en horas de la noche 
+														sin ningún tipo de interrupción del servicio.
+													</p>						
+													<!--
+													<span style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-style: italic; line-height: 100%;">
+														Planes											
+													</span>
+													-->
+													<div id="faq" class="avia-section main_color avia-section-huge avia-no-border-styling avia-bg-style-scroll  avia-builder-el-38  el_after_av_section  el_before_av_button_big  container_wrap fullsize">
+														<div class="container">									
+															<div class="wrapper">
+																<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+																
+																	<!-- PLANES -->
+																	<div>
+																		<div class="panel panel-default">
+																			<div class="panel-heading" role="tab" id="headingOne">
+																				<h4 class="panel-title">
+																					<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+																						<div class="productos">
+																							<div class="img_izq">Planes</div>
+																							<div class="img_der"></div>
+																						</div>
+																					</a>
+																				</h4>
+																			</div>
+																			<div id="collapseOne" class="panel-collapse collapse " role="tabpanel" aria-labelledby="headingOne">
+																				<div style="overflow-x:auto;border-top-color:#ADAEAD" class="panel-body">
+																					<table id="planes">
+																						<tr>
+																							<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">Especificaciones T&eacute;cnicas</th>
+																							<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">1 GB</th>
+																							<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">2 GB</th>
+																							<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">4 GB</th>
+																							<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px;">Personalizado</th>
+																						</tr>
+																						<tr style="height:5px;"><td colspan="5" style="border-bottom: solid 1px #CECECE;"></td></tr>
+																						<tr>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">
+																								Memoria
+																							</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1 GB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">2 GB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">4 GB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000;">
+																								Nos ajustamos a sus necesidades
+																							</td>
+																						</tr>
+																						<tr>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 7px 0 0 7px; border-right: solid 1px #CECECE; text-transform: uppercase;">
+																								Almacenamiento
+																							</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">25GB SATA (C:)</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">40GB SATA (C:) + 10GB SATA (D:)</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">60GB SATA (C:) + 40GB SATA (D:)</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 0 7px 7px 0;">
+																								Nos ajustamos a sus necesidades
+																							</td>
+																						</tr>
+																						<tr>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">CPU Cores</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">2</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000;">3</td>
+																						</tr>	
+																						<tr>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 7px 0 0 7px; border-right: solid 1px #CECECE; text-transform: uppercase;">
+																								Ancho de Banda
+																							</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">1 Mbps Sin limite</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">2 Mbps Sin limite</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">2 Mbps Sin limite</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 0 7px 7px 0;">
+																								Mas de 10 Mbps
+																							</td>
+																						</tr>	
+																						<tr>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">Proteccion RAID</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">No, RAID 0</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">Si, RAID 5</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">Si, RAID 5</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000;">Si, RAID 0 / 1 / 5</td>
+																						</tr>	
+																						<tr>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 7px 0 0 7px; border-right: solid 1px #CECECE; text-transform: uppercase;">
+																								VHD Backup
+																							</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">No</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Uno por Mes</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Uno cada 3 semanas</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 0 7px 7px 0;">
+																								Uno cada 2 semanas
+																							</td>
+																						</tr>	
+																						<tr>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">Dedicated IPs</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000;">2</td>
+																						</tr>		
+																						<tr>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 7px 0 0 7px; border-right: solid 1px #CECECE; text-transform: uppercase;">
+																								Soporte Tecnico
+																							</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Via Email unicamente</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Via Email + Live Chat</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Via Email + Live Chat</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 0 7px 7px 0;">
+																								Via Email + Live Chat
+																							</td>
+																						</tr>	
+																					</table>
+																				</div>
+																			</div>
+																		</div>
+																	</div>
+																	<!-- SISTEMAS OPERTATIVOS PRE-INSTALADOS -->
+																	<div>
+																		<div class="panel panel-default">
+																			<div class="panel-heading" role="tab" id="headingTwo">
+																				<h4 class="panel-title">
+																					<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+																						<div class="productos">
+																							<div class="img_izq">Sistemas Operativos pre-instalados</div>
+																							<div class="img_der"></div>
+																						</div>
+																					</a>
+																				</h4>
+																			</div>
+																			<div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+																				<div class="panel-body" style="overflow-x:auto;border-top-color:#ADAEAD;">
+																					<div class="row">
+																						<div class="col-md-4">	
+																							<img src="img/logos/archlinux_300.png">
+																						</div>
+																						<div class="col-md-4">	
+																							<img src="img/logos/centos_300.png">
+																						</div>																				
+																						<div class="col-md-4">	
+																							<img src="img/logos/citrix_300.png">
+																						</div>			
+																					</div>		
+																					<div class="row">
+																						<div class="col-md-4">	
+																							<img src="img/logos/debian_300.png">
+																						</div>
+																						<div class="col-md-4">	
+																							<img src="img/logos/fedora_300.png">
+																						</div>																				
+																						<div class="col-md-4">	
+																							<img src="img/logos/freebsd_300.png">
+																						</div>			
+																					</div>	
+																					<div class="row">
+																						<div class="col-md-4">	
+																							<img src="img/logos/ubuntu_300.png">
+																						</div>
+																						<div class="col-md-4">	
+																							<img src="img/logos/vmware_300.png">
+																						</div>																				
+																						<div class="col-md-4">	
+																							<img src="img/logos/windows_300.png">
+																						</div>			
+																					</div>																					
+																				</div>
+																			</div>
+																		</div>
+																	</div>
+																	<!-- DEMO -->
+																	<div>
+																		<div class="panel panel-default">
+																			<div class="panel-heading" role="tab" id="headingThree">
+																				<h4 class="panel-title">
+																					<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+																						<div class="productos">
+																							<div class="img_izq">Demo</div>
+																							<div class="img_der"></div>
+																						</div>
+																					</a>
+																				</h4>
+																			</div>
+																			<div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+																				<div style="overflow-x:auto;border-top-color:#ADAEAD;" class="panel-body">	
+																					<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">																				
+																						Confiado en la calidad de nuestros productos, le ofrecemos un demo de un 
+																						DataVPS por 15 días para que pueda juzgar "sin costo alguno" las virtudes 
+																						de nuestro producto. ¡Contáctanos y solicita tu demo ya!
+																					</p>
+																				</div>
+																			</div>
+																		</div>
+																	</div>
+								
+																</div>
+															</div>
+														</div>
+													</div>	
+													<br><hr><br>
+													<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">
+														Conoce más de la infraestructura que soporta este y otros productos y servicios de Exodata Solutions, 
+														ven y conoce todo sobre nuestro <a class="normal" style="color:black;" href="#">Datacenter</a>.
+													</p>	
+													<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">
+														Conoce también nuestros productos de hosting y servidores dedicados:
+													</p>	
+													<div class="row">
+														<div class="col-md-6">
+															<a href="#datahost" data-toggle="tab" aria-expanded="false" onclick="document.getElementById('host_tab').className='active'; document.getElementById('server_tab').className=''; document.getElementById('vps_tab').className=''; document.location='#tabs';"><img src="img/productos/datahost_500.png" width="500" height="115"></a>
+														</div>
+														<div class="col-md-6">	
+															<a href="#datavps" data-toggle="tab" aria-expanded="false" onclick="document.getElementById('vps_tab').className='active'; document.getElementById('server_tab').className=''; document.getElementById('host_tab').className=''; document.location='#tabs';"><img src="img/productos/datavps_500.png" width="500" height="112"></a>
+														</div>
+													</div>
+												</div>
+												<div style=" margin-top:30px; margin-bottom:30px;" class="hr hr-custom hr-center hr-icon-no  avia-builder-el-40  el_after_av_heading  el_before_av_one_half ">
+													<span class="hr-inner   inner-border-av-border-fat" style=" width:50px;">
+													<span class="hr-inner-style"></span>
+													</span>
+												</div>
+											</div>
+<!----------------------------------------- FIN  - DATASERVER -------------------------------------------------------------------------------------------------------- -->	
+										
+<!----------------------------------------- INICIO - DATAHOST -------------------------------------------------------------------------------------------------------- -->				
+											
+											<div class="tab-pane fade" id="datahost">
+												<div style="padding-bottom:0px;font-size:35px;" class="av-special-heading av-special-heading-h2  blockquote modern-quote modern-centered  avia-builder-el-39  el_before_av_hr  avia-builder-el-first   av-inherit-size">
+													<img src="img/productos/datahost_500.png" width="500" height="115">
+													<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">
+														Hoy en día es indispensable para toda empresa disponer de una plataforma tecnológica que le permita la 
+														ejecución de sus procesos operativos, financieros y comunicacionales. Esto por lo general representa 
+														una gran inversión en hardware: servidores, switches, routers, cables, racks, etc, sin contar con lo 
+														que implica el correcto hospedaje y mantenimiento de dichos equipos en cuanto a espacio, temperatura, 
+														personal entre otras. 
+													</p>	
+													<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">
+														Los servidores virtuales vienen a solucionar estos problemas ya que le permiten de forma rápida, 
+														escalable, eficiente, versátil y segura disponer de la infraestructura tecnológica que necesita su 
+														empresa. Olvídese de comprar los equipos, de configurarlos y mantenerlos, con nuestros servidores 
+														virtuales  <b>DataVPS</b>  nosotros en Exodata Solutions nos encargamos de sus necesidades tecnológicas y 
+														así usted puede dedicarse a lo que realmente conoce… su negocio.
+													</p>
+													<div class="row">
+														<div class="col-md-8">												
+															<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">
+																<b>DataVPS</b>  también le ofrece los siguientes beneficios:
+																<ul>
+																	<li>Permite consolidar servidores y operar con mayor eficiencia</li>
+																	<li>Ahorro energético, haciendo que nuestra oficina o negocio se convierta en una “empresa verde”</li>
+																	<li>Es más sencillo controlar varios servidores virtuales que varios físicos</li>
+																	<li>La posibilidad de reducir el tiempo de recuperación ante un fallo, y el tiempo para la copia de seguridad</li>
+																	<li>Probar las configuraciones de un software es más sencillo</li>
+																	<li>Se pueden utilizar aplicaciones antiguas que no son compatibles con los nuevos sistemas operativos mediante la creación de un servidor virtual sólo para ellos</li>
+																	<li>Se pueden ejecutar aplicaciones multiplataforma de una manera más sencilla y eficiente</li>
+																</ul>
+															</p>
+														</div>																
+														<div class="col-md-4">
+															<img src="img/plugi.png" width="80%">
+														</div>
+													</div>
+													<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">	
+														Los servidores <b>DataVPS</b>  son soluciones ideales para alojamiento de aplicaciones, alojamiento web, el 
+														software como Proveedores de Servicio (SaaS), streaming y varios otros fines que requieren recursos 
+														de calidad.
+													</p>
+													<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">	
+														Como parte de nuestras políticas de seguridad la información contenida dentro de su(s) <b>DataVPS</b> está 
+														segura por medio de la creación de imágenes o respaldos semanales ejecutados en horas de la noche 
+														sin ningún tipo de interrupción del servicio.
+													</p>						
+													<!--
+													<span style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-style: italic; line-height: 100%;">
+														Planes											
+													</span>
+													-->
+													<div id="faq" class="avia-section main_color avia-section-huge avia-no-border-styling avia-bg-style-scroll  avia-builder-el-38  el_after_av_section  el_before_av_button_big  container_wrap fullsize">
+														<div class="container">									
+															<div class="wrapper">
+																<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+																
+																	<!-- PLANES -->
+																	<div>
+																		<div class="panel panel-default">
+																			<div class="panel-heading" role="tab" id="headingOne">
+																				<h4 class="panel-title">
+																					<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+																						<div class="productos">
+																							<div class="img_izq">Planes</div>
+																							<div class="img_der"></div>
+																						</div>
+																					</a>
+																				</h4>
+																			</div>
+																			<div id="collapseOne" class="panel-collapse collapse " role="tabpanel" aria-labelledby="headingOne">
+																				<div style="overflow-x:auto;border-top-color:#ADAEAD" class="panel-body">
+																					<table id="planes">
+																						<tr>
+																							<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">Especificaciones T&eacute;cnicas</th>
+																							<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">1 GB</th>
+																							<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">2 GB</th>
+																							<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">4 GB</th>
+																							<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px;">Personalizado</th>
+																						</tr>
+																						<tr style="height:5px;"><td colspan="5" style="border-bottom: solid 1px #CECECE;"></td></tr>
+																						<tr>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">
+																								Memoria
+																							</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1 GB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">2 GB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">4 GB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000;">
+																								Nos ajustamos a sus necesidades
+																							</td>
+																						</tr>
+																						<tr>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 7px 0 0 7px; border-right: solid 1px #CECECE; text-transform: uppercase;">
+																								Almacenamiento
+																							</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">25GB SATA (C:)</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">40GB SATA (C:) + 10GB SATA (D:)</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">60GB SATA (C:) + 40GB SATA (D:)</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 0 7px 7px 0;">
+																								Nos ajustamos a sus necesidades
+																							</td>
+																						</tr>
+																						<tr>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">CPU Cores</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">2</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000;">3</td>
+																						</tr>	
+																						<tr>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 7px 0 0 7px; border-right: solid 1px #CECECE; text-transform: uppercase;">
+																								Ancho de Banda
+																							</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">1 Mbps Sin limite</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">2 Mbps Sin limite</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">2 Mbps Sin limite</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 0 7px 7px 0;">
+																								Mas de 10 Mbps
+																							</td>
+																						</tr>	
+																						<tr>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">Proteccion RAID</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">No, RAID 0</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">Si, RAID 5</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">Si, RAID 5</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000;">Si, RAID 0 / 1 / 5</td>
+																						</tr>	
+																						<tr>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 7px 0 0 7px; border-right: solid 1px #CECECE; text-transform: uppercase;">
+																								VHD Backup
+																							</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">No</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Uno por Mes</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Uno cada 3 semanas</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 0 7px 7px 0;">
+																								Uno cada 2 semanas
+																							</td>
+																						</tr>	
+																						<tr>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">Dedicated IPs</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000;">2</td>
+																						</tr>		
+																						<tr>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 7px 0 0 7px; border-right: solid 1px #CECECE; text-transform: uppercase;">
+																								Soporte Tecnico
+																							</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Via Email unicamente</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Via Email + Live Chat</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Via Email + Live Chat</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 0 7px 7px 0;">
+																								Via Email + Live Chat
+																							</td>
+																						</tr>	
+																					</table>
+																				</div>
+																			</div>
+																		</div>
+																	</div>
+																	<!-- SISTEMAS OPERTATIVOS PRE-INSTALADOS -->
+																	<div>
+																		<div class="panel panel-default">
+																			<div class="panel-heading" role="tab" id="headingTwo">
+																				<h4 class="panel-title">
+																					<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+																						<div class="productos">
+																							<div class="img_izq">Sistemas Operativos pre-instalados</div>
+																							<div class="img_der"></div>
+																						</div>
+																					</a>
+																				</h4>
+																			</div>
+																			<div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+																				<div class="panel-body" style="overflow-x:auto;border-top-color:#ADAEAD;">
+																					<div class="row">
+																						<div class="col-md-4">	
+																							<img src="img/logos/archlinux_300.png">
+																						</div>
+																						<div class="col-md-4">	
+																							<img src="img/logos/centos_300.png">
+																						</div>																				
+																						<div class="col-md-4">	
+																							<img src="img/logos/citrix_300.png">
+																						</div>			
+																					</div>		
+																					<div class="row">
+																						<div class="col-md-4">	
+																							<img src="img/logos/debian_300.png">
+																						</div>
+																						<div class="col-md-4">	
+																							<img src="img/logos/fedora_300.png">
+																						</div>																				
+																						<div class="col-md-4">	
+																							<img src="img/logos/freebsd_300.png">
+																						</div>			
+																					</div>	
+																					<div class="row">
+																						<div class="col-md-4">	
+																							<img src="img/logos/ubuntu_300.png">
+																						</div>
+																						<div class="col-md-4">	
+																							<img src="img/logos/vmware_300.png">
+																						</div>																				
+																						<div class="col-md-4">	
+																							<img src="img/logos/windows_300.png">
+																						</div>			
+																					</div>																					
+																				</div>
+																			</div>
+																		</div>
+																	</div>
+																	<!-- DEMO -->
+																	<div>
+																		<div class="panel panel-default">
+																			<div class="panel-heading" role="tab" id="headingThree">
+																				<h4 class="panel-title">
+																					<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+																						<div class="productos">
+																							<div class="img_izq">Demo</div>
+																							<div class="img_der"></div>
+																						</div>
+																					</a>
+																				</h4>
+																			</div>
+																			<div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+																				<div style="overflow-x:auto;border-top-color:#ADAEAD;" class="panel-body">	
+																					<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">																				
+																						Confiado en la calidad de nuestros productos, le ofrecemos un demo de un 
+																						DataVPS por 15 días para que pueda juzgar "sin costo alguno" las virtudes 
+																						de nuestro producto. ¡Contáctanos y solicita tu demo ya!
+																					</p>
+																				</div>
+																			</div>
+																		</div>
+																	</div>
+								
+																</div>
+															</div>
+														</div>
+													</div>	
+													<br><hr><br>
+													<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">
+														Conoce más de la infraestructura que soporta este y otros productos y servicios de Exodata Solutions, 
+														ven y conoce todo sobre nuestro <a class="normal" style="color:black;" href="#">Datacenter</a>.
+													</p>	
+													<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">
+														Conoce también nuestros productos de hosting y servidores dedicados:
+													</p>	
+													<div class="row">
+														<div class="col-md-6">
+															<a href="#dataserver" data-toggle="tab" aria-expanded="false" onclick="document.getElementById('server_tab').className='active'; document.getElementById('host_tab').className=''; document.getElementById('vps_tab').className=''; document.location='#tabs';"><img src="img/productos/dataserver_500.png" width="500" height="118"></a>
+														</div>
+														<div class="col-md-6">	
+															<a href="#datavps" data-toggle="tab" aria-expanded="false" onclick="document.getElementById('vps_tab').className='active'; document.getElementById('server_tab').className=''; document.getElementById('host_tab').className=''; document.location='#tabs';"><img src="img/productos/datavps_500.png" width="500" height="112"></a>
+														</div>
+													</div>
+												</div>
+												<div style=" margin-top:30px; margin-bottom:30px;" class="hr hr-custom hr-center hr-icon-no  avia-builder-el-40  el_after_av_heading  el_before_av_one_half ">
+													<span class="hr-inner   inner-border-av-border-fat" style=" width:50px;">
+													<span class="hr-inner-style"></span>
+													</span>
+												</div>
+											</div>
+											
+<!----------------------------------------- FIN   -  DATAHOST -------------------------------------------------------------------------------------------------------- -->	
+											
 										</div>
 									</div>
 								</div>
 							</div>
 						</div>
+						<div class="av-extra-border-element border-extra-arrow-down"></div>
 					</div>
-				</div>
-
+				</div>	
+				<!-- FIN PESTAÑAS -->	
 
 				<div id="contactenos" class="avia-section fondo-footer-productos  avia-section-huge avia-no-border-styling avia-bg-style-scroll  avia-builder-el-38  el_after_av_section  el_before_av_button_big  container_wrap fullsize">
 					<div class="container" style="max-width: 800px">
@@ -685,7 +1132,7 @@
 					<?php include('footer.php'); ?>
 			</div>
 		</div>
-		
+
 		<script type="text/javascript" src="js/conversion.js"></script>
 		<script type="text/javascript" src="js/avia_external_link.js"></script>
 		<script type="text/javascript" src="js/editor.js"></script>
@@ -699,6 +1146,6 @@
 		
 		<a href="#top" title="Scroll to top" id="scroll-top-link" aria-hidden="true" data-av_icon="" data-av_iconfont="entypo-fontello" class=""><span class="avia_hidden_link_text">Scroll to top</span></a>
 		<div id="fb-root"></div>
-		
+	
 	</body>
 </html>

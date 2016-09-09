@@ -505,6 +505,9 @@ border: 1px solid #ddd;
         }
         .img_izq {
         float: left;
+		font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; 
+		letter-spacing: 2px; 
+		font-size: 20px; 		
         }
 
         .img_der {
