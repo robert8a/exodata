@@ -17,12 +17,12 @@
                                             </a>
                                         </li>                                           
                                         <li class="dropdown">
-                                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#services">Servicios<span class="caret"></span>
+                                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#services">Productos y Servicios<span class="caret"></span>
                                             </a>
                                             <ul class="dropdown-menu">
                                                 <li><a href="web.php">Desarrollo Web</a></li>
                                                 <li><a href="diseno.php">Diseño Gráfico</a></li>
-                                                <li><a href="servicios_it.php">Servicios IT</a></li>
+                                                <li><a href="servicios.php">Servicios IT</a></li>
                                                 <li><a href="productos.php">Productos IT</a></li>
                                             </ul>
                                         </li>
@@ -38,9 +38,9 @@
                                             </a>
                                         </li>
                                         <li id="menu-item-20" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-top-level menu-item-top-level-4">
-                                            <a href="index.php#services" itemprop="url">
+                                            <a href="index.php#datacenter_section" itemprop="url">
                                                 <span class="avia-bullet"></span>
-                                                <span class="avia-menu-text">Nuestro Equipo</span>
+                                                <span class="avia-menu-text">Datacenter</span>
                                                 <span class="avia-menu-fx">
                                                     <span class="avia-arrow-wrap">
                                                         <span class="avia-arrow"></span>

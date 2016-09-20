@@ -400,34 +400,31 @@
 		</div>
 		
 		<!-- valores -->
-		
+
 		<div id='av_section_6' class='avia-section main_color avia-section-huge avia-no-border-styling avia-bg-style-scroll  avia-builder-el-52  el_after_av_section  avia-builder-el-last  container_wrap fullsize'   >
-			<a name="datacenter_section"></a>
 			<div class="datacenter">
-				
-				<h1 id="datacenter_titulo" style="">DATACENTER</h1>			
-				<p>
-					La velocidad de conexión, respaldos y seguridad de nuestros productos y servicios son soportados y avalados por 
-					nuestro Datacenter  o Backbone Internacional.
-				</p>					
-				<p>
-					El Datacenter de Exodata Solutions es una creciente red troncal multitarjeta totalmente conformada por equipos 
-					Juniper MX  y MPLS / VPLS ready. 
-				</p>				
-				<p>
-					Nuestro Datacenter conecta con la mayoría de las compañías de prestigio TIER1 en el mundo como son: 
-				</p>
-				<p>
-					Junto a nuestro partner ColoHouse y sus principales aliados como Netrouting,  Exodata Solutions le ofrece una 
-					conexión a Internet redundante, de alta velocidad con servicio en más de 15 centros de datos en todo el mundo. 
-					A través de socios directos tenemos acceso a centros de datos en más de 30 países y estados a través de Europa 
-					y Estados Unidos.
-				</p>			
+				<h1 id="datacenter_titulo" style="">DATACENTER</h1>
 			
-				<p><strong>Virtudes de nuestro Datacenter:</strong></p>				
+				<p>La velocidad de conexión, respaldos y seguridad de nuestros productos y servicios son soportados y avalados por nuestro Datacenter  o Backbone Internacional.</p>
+					
+				<p>El Datacenter de Exodata Solutions es una creciente red troncal multitarjeta totalmente conformada por equipos Juniper MX  y MPLS / VPLS ready. </p>
 				
+				<p>Nuestro Datacenter conecta con la mayoría de las compañías de prestigio TIER1 en el mundo como son: </p>
+
+				<p>Junto a nuestro partner ColoHouse y sus principales aliados como Netrouting,  Exodata Solutions le ofrece una conexión a Internet redundante, de alta velocidad con 
+					servicio en más de 15 centros de datos en todo el mundo. A través de socios directos tenemos acceso a centros de datos en más de 30 países y estados a través de Europa 
+					y Estados Unidos.</p>			
+			
+				<div class="datacenter_image">
+					<img src="img/inicio/icon_valores.png" alt="imagen valores">
+					
+				</div>			
 				<div class="datacenter_texto">
-								
+					
+
+
+					<p>Virtudes de nuestro Datacenter:</p>
+					
 					<ul>
 						<li>
 							<b>Red</b><br>
@@ -531,10 +528,50 @@
 
 
 		<div id='av_section_6' class='avia-section main_color avia-section-huge avia-no-border-styling avia-bg-style-scroll  avia-builder-el-52  el_after_av_section  avia-builder-el-last  container_wrap fullsize'>
-			<?php include('ubicacion.php'); ?>
+			<div class="ubicacion">
+				<div class="ubicacion_titulo">
+					<span>
+						<h3>UBICACIÓN</h3>
+					</span>
+				</div>
+				<div class="ubicacion_dir">
+					<p>Av. Paez, Edif. Centro Profesional Paraíso, Piso 5, Ofic. 508, Urb El Paraíso, Caracas 1020. <br>Venezuela</p>
+					<p>
+						<strong>Teléfonos:</strong>+58 212 462.07.73 / +58 212 451.99.67 <br>
+						<strong>Email: </strong>ventas@exodatasolutions.com <br>
+						<strong>RIF: </strong>J-40459183-4
+					</p>
+				</div>
+				<div class="ubicacion_map">
+					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3923.2089486829664!2d-66.93788408558869!3d10.484188067387485!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8c2a5f11707d886b%3A0x4022abc7e7c2c887!2sCentro+Profesional+el+Paraiso!5e0!3m2!1ses!2sve!4v1463166418218" 
+					frameborder="0" style="border:1; width: 100%; height: 100%; " allowfullscreen></iframe>
+				</div>
+			</div>
 		</div>
 
-		<?php include('footer.php'); ?>
+		<footer class='container_wrap socket_color' id='socket'  role="contentinfo" itemscope="itemscope" itemtype="https://schema.org/WPFooter" >
+			<div class='container pie'>
+				<div class="footer_logo"><a href="index.html"><img src="img/poweredby.png" alt="Exodata Solutions"></a></div>
+				<div class="footer_centro">
+					<div>
+						<a href="https://www.facebook.com/exodatasolutions" target="_blank"><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i></a>
+						<a href="https://twitter.com/exodata_jbp" target="_blank"><i class="fa fa-twitter-square fa-3x" aria-hidden="true"></i></a>
+						<a href="https://www.instagram.com/exodata_solutions/" target="_blank"><i class="fa fa-instagram fa-3x" aria-hidden="true"></i></a>
+						<a href="https://www.behance.net/Exodata" target="_blank"><i class="fa fa-behance-square fa-3x" aria-hidden="true"></i></a>
+					</div>
+					<div>
+						<ul>
+							<li><a href="web.html">DESARROLLO WEB</a></li>
+							<li><a href="diseno.html">DISEÑO GRÁFICO</a></li>
+							<li><a href="servicios_it.html">SERVICIOS IT</a></li>
+							<li><a href="productos.html">PRODUCTOS IT</a></li>
+						</ul>
+						span>2015 Todos Los Derechos Reservados Exodata Solutions</span>
+					</div>	
+				</div>
+				<div class="footer_logo2"><a href="http://www.jbpcorp.com/" target="_blank"><img src="img/unaempresamas.png" alt="JBP CORP"></a></div>
+			</div>
+		</footer>
 		
 		<script type="text/javascript">
 		/* <![CDATA[ */

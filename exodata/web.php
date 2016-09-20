@@ -201,7 +201,7 @@
 											<h3 class="iconbox_content_title" itemprop="headline">Administras tu mismo tu contenido</h3>
 										</header>
 										<div class="iconbox_content_container" itemprop="text">
-											<p>Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justordiet a, venenatis vitae, justo.</p>
+											<p>Con el administrador de contenido Wordpress podrás tener control sobre tu contenido</p>
 										</div>
 									</div>
 									<footer class="entry-footer"></footer>
@@ -260,115 +260,65 @@
 						</div>
 					</div>
 				</div>
-			
-
-		
+<!--			
 				<div id="faq" class="avia-section main_color avia-section-huge avia-no-border-styling avia-bg-style-scroll  avia-builder-el-38  el_after_av_section  el_before_av_button_big  container_wrap fullsize">
 					<div class="container">
 						<div class="template-page content  av-content-full alpha units">
 							<div class="post-entry post-entry-type-page post-entry-12">
 								<div class="entry-content-wrapper clearfix">
 									<div style="padding-bottom:0px;font-size:35px;" class="av-special-heading av-special-heading-h2  blockquote modern-quote modern-centered  avia-builder-el-39  el_before_av_hr  avia-builder-el-first   av-inherit-size">
-										<h1 style="font-size: 120%; color: #626262; font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif;">
-											DISEÑO DE PORTALES WEB
+										<h1 style="font-size: 100%; color: #337AB7; font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif;">
+											Diseño de portales web
 										</h1>
-										<br>
-										<span style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-style: italic; line-height: 100%;">
-											La página web es la tarjeta de presentación de tu empresa ante el mundo 
-										</span>
 										<br><br>											
 										<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">
-											Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. 
-											Cum sociis natoque penatibus et magnis  montes, nascetur ridiculus mus. 
-											Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. 
-											Cum sociis natoque penatibus et magnis  montes, nascetur ridiculus mus.
-										</p>											
-									</div>
-									
-									
-									
-									<div style=" margin-top:30px; margin-bottom:30px;" class="hr hr-custom hr-center hr-icon-no  avia-builder-el-40  el_after_av_heading  el_before_av_one_half ">
-										<span class="hr-inner   inner-border-av-border-fat" style=" width:50px;">
-											<span class="hr-inner-style"></span>
-										</span>
-									</div>
-									<div class="flex_column av_one_half  av-animated-generic pop-up  flex_column_div av-zero-column-padding first  avia-builder-el-41  el_after_av_hr  el_before_av_one_half   avia_start_animation avia_start_delayed_animation" style="border-radius:0px; ">
-										<div style="padding-bottom:10px;" class="av-special-heading av-special-heading-h3  blockquote modern-quote  avia-builder-el-42  el_before_av_textblock  avia-builder-el-first  ">
-											<h3 class="av-special-heading-tag" itemprop="headline">How does the beta trial work?</h3>
-											<div class="special-heading-border">
-												<div class="special-heading-inner-border"></div>
-											</div>
-										</div>
-										<section class="av_textblock_section">
-											<div class="avia_textblock " style="font-size:14px; " itemprop="text">
-												<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. 
-												Cum sociis natoque penatibus et magnis <a href="#">dis parturient</a> montes, nascetur ridiculus mus.</p>
-											</div>
-										</section>
-									</div>
-									<div class="flex_column av_one_half  av-animated-generic pop-up  flex_column_div av-zero-column-padding   avia-builder-el-44  el_after_av_one_half  el_before_av_one_half   avia_start_animation avia_start_delayed_animation" style="border-radius:0px; ">
-										<div style="padding-bottom:10px;" class="av-special-heading av-special-heading-h3  blockquote modern-quote  avia-builder-el-45  el_before_av_textblock  avia-builder-el-first  ">
-											<h3 class="av-special-heading-tag" itemprop="headline">Can I change plans later?</h3>
-											<div class="special-heading-border">
-												<div class="special-heading-inner-border"></div>
-											</div>
-										</div>
-										<section class="av_textblock_section">
-											<div class="avia_textblock " style="font-size:14px; " itemprop="text">
-												<p>Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, 
-												venenatis vitae, justo. Nullam dictum felis eu pede mollis <strong>pretium</strong>. Integer tincidunt.</p>
-											</div>
-										</section>
-									</div>
-									<div class="flex_column av_one_half  av-animated-generic pop-up  flex_column_div av-zero-column-padding first  avia-builder-el-47  el_after_av_one_half  el_before_av_one_half  column-top-margin avia_start_animation avia_start_delayed_animation" style="border-radius:0px; ">
-										<div style="padding-bottom:10px;" class="av-special-heading av-special-heading-h3  blockquote modern-quote  avia-builder-el-48  el_before_av_textblock  avia-builder-el-first  ">
-											<h3 class="av-special-heading-tag" itemprop="headline">How do you handle delivery?</h3>
-											<div class="special-heading-border">
-												<div class="special-heading-inner-border"></div>
-											</div>
-										</div>
-										<section class="av_textblock_section">
-											<div class="avia_textblock " style="font-size:14px; " itemprop="text">
-												<p>Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, 
-												consequat vitae, eleifend ac, enim. <strong>Aliquam lorem</strong> ante, dapibus in, viverra quis, feugiat a, tellus.</p>
-											</div>
-										</section>
-									</div>
-									<div class="flex_column av_one_half  av-animated-generic pop-up  flex_column_div av-zero-column-padding   avia-builder-el-50  el_after_av_one_half  avia-builder-el-last  column-top-margin avia_start_animation avia_start_delayed_animation" style="border-radius:0px; ">
-										<div style="padding-bottom:10px;" class="av-special-heading av-special-heading-h3  blockquote modern-quote  avia-builder-el-51  el_before_av_textblock  avia-builder-el-first  ">
-											<h3 class="av-special-heading-tag" itemprop="headline">Which payment options do I have?</h3>
-											<div class="special-heading-border">
-												<div class="special-heading-inner-border"></div>
-											</div>
-										</div>
-										<section class="av_textblock_section">
-											<div class="avia_textblock " style="font-size:14px; " itemprop="text">
-												<p>Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. In enim justo, 
-												rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.</p>
-											</div>
-										</section>
+											Hoy en día se dice que quien no está en la internet no existe, y en cierto modo ésta frase tiene razón, 
+											cuando una persona busca un producto a una información el primer lugar donde suele buscar es internet.
+										</p>
+										<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">
+											Una página web le permite presentar su empresa al mundo, muchas personas llegarán a conocerla a través de 
+											esta, siendo la manera más efectiva de mostrar al mundo quienes son y que ofrece sus productos y servicios 
+											permitiendo también el intercambio de ideas e información con sus posibles clientes.
+										</p>
+										<br><br><br>
+
+										<h1 style="font-size: 100%; color: #337AB7; font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif;">
+											Diseño Corporativo
+										</h1>
+										<br><br>											
+										<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">
+											Es la base fundamental para crear la identidad e imagen corporativa de una empresa, ya que muestra de 
+											manera uniforme y profesional lo que es la compañia generando confianza ena los clientes.
+										</p>
+										<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">
+											Cada elemento de comunicación que desarrollemos utilizando el diseño gráfico como herramienta, ayudará a 
+											las empresas a potenciar el concepto de marca que construimos por medio del branding.
+										</p>
+										<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">
+											Creamos y desarrollamos su marca, diseñando todos los elementos que representan a la misma, desde el 
+											logotipo hasta los aspectos de comunicación interna y externa obteniendo una identidad corporativa con 
+											coherencia y uniformidad que será percibida por el público de una manera mucho más receptiva, valorando 
+											la marca posotivamente incluso por encima de las marcas de la competencia.
+										</p>												
 									</div>
 								</div>
 							</div>
-						</div><!-- close content main div -->
+						</div>
 					</div>
 					<div class="av-extra-border-element border-extra-arrow-down">
 						<div class="av-extra-border-outer">
-							<div class="av-extra-border-inner" style="background-color:#f1f1f1;"></div>
+							<div class="av-extra-border-inner" style="background-color:#ffffff;"></div>
 						</div>
 					</div>
-				</div>
-
+				</div>	
+-->
 
 <!-- portafolio -->
 
-<div id="faq" class="avia-section main_color avia-section-huge avia-no-border-styling avia-bg-style-scroll  avia-builder-el-38  el_after_av_section  el_before_av_button_big  container_wrap fullsize">
+				<div id="faq" class="avia-section main_color avia-section-huge avia-no-border-styling avia-bg-style-scroll  avia-builder-el-38  el_after_av_section  el_before_av_button_big  container_wrap fullsize" style="background-color: #ffffff;">
 					<div class="container portafolio" style="background:white;">
-
-<iframe src="colio/index_web.html" scrolling="no" ></iframe>
-		
+						<iframe src="colio/index_web.html" scrolling="no" ></iframe>
 					</div>
-
 					<div class="av-extra-border-element border-extra-arrow-down">
 						<div class="av-extra-border-outer">
 							<div class="av-extra-border-inner" style="background-color:#ffffff;"></div>

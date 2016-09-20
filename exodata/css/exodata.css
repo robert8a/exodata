@@ -48,8 +48,11 @@ min-height: 750px;
 .valores_texto {
     width: 100%;
     color: black;
-      font-size: 14px;  
-      margin-bottom: 20px;
+	font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; 
+	letter-spacing: 2px; 
+	font-size: 20px;
+	padding-right: 90px;
+    margin-bottom: 20px;
 }
 
 .valores_texto ul li strong{
@@ -90,9 +93,12 @@ min-height: 750px;
 .datacenter_texto {
     width: 100%;
     color: black;
-	font-size: 14px;  
 	margin-bottom: 20px;
 	padding: 25px;
+	letter-spacing: 2px; 
+	font-size: 20px; 
+	text-align: justify;	
+	
 }
 
 .datacenter_texto ul li strong{
@@ -108,7 +114,7 @@ min-height: 750px;
 
 #datacenter_titulo{
 	padding: 15px 0px 0px 0px;
-	color: black; 
+	color: #337AB7; 
 	margin-left: auto; 
 	margin-right: auto; 
 	width: 100%; 
@@ -579,7 +585,7 @@ border: 1px solid #ddd;
         .valores_image {
 
             float: left;
-            width: 40%;
+            width: 30%;
 
         }
 
@@ -591,7 +597,7 @@ border: 1px solid #ddd;
         .valores_texto {
             margin-top: 55px;
             float: right;
-            width: 60%;
+            width: 70%;
 
         }  
 
@@ -601,7 +607,11 @@ border: 1px solid #ddd;
         }
 
         .datacenter {
-			min-height: 1080px;
+			min-height: 1375px;
+			font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; 
+			letter-spacing: 2px; 
+			font-size: 20px; 
+			text-align: justify;
 			padding: 15px 10%; 
         }
 
@@ -615,9 +625,9 @@ border: 1px solid #ddd;
         }
 
         .datacenter_texto {
-            margin-top: 55px;
+
             float: right;
-            width: 70%;
+            width: 100%;
 
         }  
 

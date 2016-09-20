@@ -259,15 +259,16 @@
 										<li class="" id="server_tab"><a href="#dataserver" data-toggle="tab" aria-expanded="false"><img src="img/productos/dataserver_150.png" width="150" height="35"></a></li>
 										<li class="" id="host_tab"><a href="#datahost" data-toggle="tab" aria-expanded="false"><img src="img/productos/datahost_150.png" width="150" height="34"></a></li>
 									</ul>
-									<div class="cajaPestana" style="border: solid 1px #ddd; margin-left: 7px; margin-top: -4px; padding: 25px; background-color: #fff;">
+									<div class="cajaPestana" style="border: solid 1px #ddd; margin-left: 7px; margin-top: -4px; padding: 50px; background-color: #fff;">
 										<div id="myTabContent" class="tab-content">
 										
 <!----------------------------------------- INICIO - DATAVPS -------------------------------------------------------------------------------------------------------- -->	
 										
 											<div class="tab-pane fade active in" id="datavps">
 												<div style="padding-bottom:0px;font-size:35px;" class="av-special-heading av-special-heading-h2  blockquote modern-quote modern-centered  avia-builder-el-39  el_before_av_hr  avia-builder-el-first   av-inherit-size">
-												
+													<br>
 													<img src="img/productos/datavps_500.png" width="500" height="112">
+													<br><br>
 													
 											
 													<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">
@@ -343,87 +344,83 @@
 																						<tr>
 																							<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">Especificaciones T&eacute;cnicas</th>
 																							<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">1 GB</th>
-																							<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">2 GB</th>
 																							<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">4 GB</th>
+																							<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">8 GB</th>
+																							<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">16 GB</th>
 																							<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px;">Personalizado</th>
 																						</tr>
 																						<tr style="height:5px;"><td colspan="5" style="border-bottom: solid 1px #CECECE;"></td></tr>
 																						<tr>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">
-																								Memoria
+																							<td width="26%" style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">
+																								Memoria RAM
 																							</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1 GB</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">2 GB</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">4 GB</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000;">
-																								Nos ajustamos a sus necesidades
+																							<td width="14%" style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1 GB</td>
+																							<td width="14%" style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">4 GB</td>
+																							<td width="14%" style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">8 GB</td>
+																							<td width="14%" style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">6 GB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000;" rowspan="8" valign="middle;">
+																								<span style="font-size: 16px; font-weight: bold; color:#337AB7"><br><br><br>Desarrollamos Planes adapatados a las necesidades reales del cliente</span>
 																							</td>
 																						</tr>
+																						<tr>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">
+																								CPU
+																							</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1 CPU</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">2 CPU</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">4 CPU</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">8 CPU</td>
+																						</tr>																						
+																						
 																						<tr>
 																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 7px 0 0 7px; border-right: solid 1px #CECECE; text-transform: uppercase;">
-																								Almacenamiento
+																								Disco Duro
 																							</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">25GB SATA (C:)</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">40GB SATA (C:) + 10GB SATA (D:)</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">60GB SATA (C:) + 40GB SATA (D:)</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 0 7px 7px 0;">
-																								Nos ajustamos a sus necesidades
-																							</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">20 GB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">60 GB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">100 GB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">160 GB</td>
 																						</tr>
 																						<tr>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">CPU Cores</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">2</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000;">3</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">Swap</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">2 GB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">8 GB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">16 GB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">32 GB</td>
 																						</tr>	
 																						<tr>
 																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 7px 0 0 7px; border-right: solid 1px #CECECE; text-transform: uppercase;">
 																								Ancho de Banda
 																							</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">1 Mbps Sin limite</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">2 Mbps Sin limite</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">2 Mbps Sin limite</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 0 7px 7px 0;">
-																								Mas de 10 Mbps
-																							</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">100 Mbit</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">100 Mbit</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">100 Mbit</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">100 Mbit</td>
 																						</tr>	
 																						<tr>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">Proteccion RAID</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">No, RAID 0</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">Si, RAID 5</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">Si, RAID 5</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000;">Si, RAID 0 / 1 / 5</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">Transferencia</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1 Terabyte</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1 Terabyte</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1 Terabyte</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1 Terabyte</td>
 																						</tr>	
 																						<tr>
 																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 7px 0 0 7px; border-right: solid 1px #CECECE; text-transform: uppercase;">
-																								VHD Backup
+																								Direcciones IP
 																							</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">No</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Uno por Mes</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Uno cada 3 semanas</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 0 7px 7px 0;">
-																								Uno cada 2 semanas
-																							</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">1</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">1</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">1</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">1</td>
 																						</tr>	
 																						<tr>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">Dedicated IPs</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000;">2</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">Prioridad de CPU</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">10</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">20</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">20</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">20</td>
 																						</tr>		
-																						<tr>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 7px 0 0 7px; border-right: solid 1px #CECECE; text-transform: uppercase;">
-																								Soporte Tecnico
-																							</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Via Email unicamente</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Via Email + Live Chat</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Via Email + Live Chat</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 0 7px 7px 0;">
-																								Via Email + Live Chat
-																							</td>
-																						</tr>	
+
 																					</table>
 																				</div>
 																			</div>
@@ -498,7 +495,7 @@
 																				<div style="overflow-x:auto;border-top-color:#ADAEAD;" class="panel-body">	
 																					<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">																				
 																						Confiado en la calidad de nuestros productos, le ofrecemos un demo de un 
-																						DataVPS por 15 días para que pueda juzgar "sin costo alguno" las virtudes 
+																						DataVPS por 15 días para que pueda juzgar <b>"sin costo alguno"</b> las virtudes 
 																						de nuestro producto. ¡Contáctanos y solicita tu demo ya!
 																					</p>
 																				</div>
@@ -513,7 +510,7 @@
 													<br><hr><br>
 													<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">
 														Conoce más de la infraestructura que soporta este y otros productos y servicios de Exodata Solutions, 
-														ven y conoce todo sobre nuestro <a class="normal" style="color:black;" href="#">Datacenter</a>.
+														ven y conoce todo sobre nuestro <a class="normal" style="color:black;" href="index.php#datacenter_section">Datacenter</a>.
 													</p>	
 													<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">
 														Conoce también nuestros productos de hosting y servidores dedicados:
@@ -539,33 +536,34 @@
 											
 											<div class="tab-pane fade" id="dataserver">
 												<div style="padding-bottom:0px;font-size:35px;" class="av-special-heading av-special-heading-h2  blockquote modern-quote modern-centered  avia-builder-el-39  el_before_av_hr  avia-builder-el-first   av-inherit-size">
+													<br>
 													<img src="img/productos/dataserver_500.png" width="500" height="118">
+													<br><br>
 													<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">
-														Hoy en día es indispensable para toda empresa disponer de una plataforma tecnológica que le permita la 
-														ejecución de sus procesos operativos, financieros y comunicacionales. Esto por lo general representa 
-														una gran inversión en hardware: servidores, switches, routers, cables, racks, etc, sin contar con lo 
-														que implica el correcto hospedaje y mantenimiento de dichos equipos en cuanto a espacio, temperatura, 
-														personal entre otras. 
+														<b>DataServer</b>, es un producto creado para satisfacer las exigencias de equipos reales a nuestros clientes que requieren exclusividad 
+														en términos de manejo de recursos informáticos aumentando así el rendimiento de sus aplicaciones y servicios. Este producto no es 
+														virtualizado y es un producto escalable en cuanto a recursos, lo que hace atractivo de caras a nuestros clientes la versatilidad de  
+														las operaciones en todo sentido. b>DataServer</b> es un producto apoyado en Servidores de infraestructura de hojillas (Blade) de las marcas 
+														DELL y Supermicro.
 													</p>	
 													<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">
-														Los servidores virtuales vienen a solucionar estos problemas ya que le permiten de forma rápida, 
-														escalable, eficiente, versátil y segura disponer de la infraestructura tecnológica que necesita su 
-														empresa. Olvídese de comprar los equipos, de configurarlos y mantenerlos, con nuestros servidores 
-														virtuales  <b>DataVPS</b>  nosotros en Exodata Solutions nos encargamos de sus necesidades tecnológicas y 
-														así usted puede dedicarse a lo que realmente conoce… su negocio.
+														<b>DataServer</b> está orientado a cualquier tipo de empresa que necesita de infraestructura para implementar soluciones tecnológicas que 
+														requieren equipos No Virtualizados que le brinden el rendimiento óptimo de sus aplicaciones.
 													</p>
 													<div class="row">
 														<div class="col-md-8">												
 															<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">
-																<b>DataVPS</b>  también le ofrece los siguientes beneficios:
+																Entre otras ventajas nuestros <b>DataServer</b> presentan las siguientes ventajas:
 																<ul>
-																	<li>Permite consolidar servidores y operar con mayor eficiencia</li>
-																	<li>Ahorro energético, haciendo que nuestra oficina o negocio se convierta en una “empresa verde”</li>
-																	<li>Es más sencillo controlar varios servidores virtuales que varios físicos</li>
-																	<li>La posibilidad de reducir el tiempo de recuperación ante un fallo, y el tiempo para la copia de seguridad</li>
-																	<li>Probar las configuraciones de un software es más sencillo</li>
-																	<li>Se pueden utilizar aplicaciones antiguas que no son compatibles con los nuevos sistemas operativos mediante la creación de un servidor virtual sólo para ellos</li>
-																	<li>Se pueden ejecutar aplicaciones multiplataforma de una manera más sencilla y eficiente</li>
+																	<li>TIER1 Multi sitio Backbone. Altas velocidades.</li>
+																	<li>Comunicación interna entre Servidores a nivel de red.</li>
+																	<li>< 1 hora de tiempo de respuesta garantizada.</li>
+																	<li>99.99% disponibilidad garantizada.</li>
+																	<li>Continuidad del negocio (Implementación multi-sitio).</li>
+																	<li>Free /64 IPv6 Incluida.</li>
+																	<li>VLAN soportada para redes públicas y privadas.</li>
+																	<li>< 1 día laboral para su implementación.</li>
+																	<li>Neutral Carrier.</li>
 																</ul>
 															</p>
 														</div>																
@@ -573,21 +571,7 @@
 															<img src="img/plugi.png" width="80%">
 														</div>
 													</div>
-													<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">	
-														Los servidores <b>DataVPS</b>  son soluciones ideales para alojamiento de aplicaciones, alojamiento web, el 
-														software como Proveedores de Servicio (SaaS), streaming y varios otros fines que requieren recursos 
-														de calidad.
-													</p>
-													<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">	
-														Como parte de nuestras políticas de seguridad la información contenida dentro de su(s) <b>DataVPS</b> está 
-														segura por medio de la creación de imágenes o respaldos semanales ejecutados en horas de la noche 
-														sin ningún tipo de interrupción del servicio.
-													</p>						
-													<!--
-													<span style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-style: italic; line-height: 100%;">
-														Planes											
-													</span>
-													-->
+								
 													<div id="faq" class="avia-section main_color avia-section-huge avia-no-border-styling avia-bg-style-scroll  avia-builder-el-38  el_after_av_section  el_before_av_button_big  container_wrap fullsize">
 														<div class="container">									
 															<div class="wrapper">
@@ -596,9 +580,9 @@
 																	<!-- PLANES -->
 																	<div>
 																		<div class="panel panel-default">
-																			<div class="panel-heading" role="tab" id="headingOne">
+																			<div class="panel-heading" role="tab" id="serverHeadingOne">
 																				<h4 class="panel-title">
-																					<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+																					<a role="button" data-toggle="collapse" data-parent="#accordion" href="#serverCollapseOne" aria-expanded="false" aria-controls="serverCollapseOne">
 																						<div class="productos">
 																							<div class="img_izq">Planes</div>
 																							<div class="img_der"></div>
@@ -606,93 +590,274 @@
 																					</a>
 																				</h4>
 																			</div>
-																			<div id="collapseOne" class="panel-collapse collapse " role="tabpanel" aria-labelledby="headingOne">
+																			<div id="serverCollapseOne" class="panel-collapse collapse " role="tabpanel" aria-labelledby="serverHeadingOne">
 																				<div style="overflow-x:auto;border-top-color:#ADAEAD" class="panel-body">
 																					<table id="planes">
 																						<tr>
-																							<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">Especificaciones T&eacute;cnicas</th>
-																							<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">1 GB</th>
-																							<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">2 GB</th>
-																							<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">4 GB</th>
-																							<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px;">Personalizado</th>
+																							<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">Producto</th>
+																							<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">Marca</th>
+																							<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">Tipo</th>
+																							<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">Procesador único</th>
+																							<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">Memoria</th>
+																							<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">Disco Duro</th>
+																							<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">Transferencia</th>
+																							<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px;">Tipo</th>
 																						</tr>
-																						<tr style="height:5px;"><td colspan="5" style="border-bottom: solid 1px #CECECE;"></td></tr>
+																						<tr style="height:5px;"><td colspan="8" style="border-bottom: solid 1px #CECECE;"></td></tr>
 																						<tr>
 																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">
-																								Memoria
+																								DataServer 1
 																							</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1 GB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">Dell</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">PowerEdge R200</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">Core2Duo E7400</td>
 																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">2 GB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">160 GB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">4 Terabytes</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000;">single cpu</td>
+																						</tr>
+																						<tr>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE; text-transform: uppercase;">
+																								DataServer 2
+																							</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Supermicro</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">SC512</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Intel i3-2100T</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">4 GB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">500 GB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">4 Terabytes</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9;">single cpu</td>
+																						</tr>																						
+																						<tr>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">
+																								DataServer 3
+																							</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">Dell</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">PowerEdge R210</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">Intel Xeon X3450</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">8 GB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1 TB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">4 Terabytes</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000;">single cpu</td>
+																						</tr>
+																						<tr>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE; text-transform: uppercase;">
+																								DataServer 4
+																							</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Dell</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">PowerEdge R200</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Xeon X3220</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">4 GB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">160 GB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">4 Terabytes</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9;">single cpu</td>
+																						</tr>																							
+																						<tr>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">
+																								DataServer 5
+																							</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">Dell</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">PowerEdge R200</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">Core2Duo E7400</td>
 																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">4 GB</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000;">
-																								Nos ajustamos a sus necesidades
-																							</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">2x1 TB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">4 Terabytes</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000;">single cpu</td>
 																						</tr>
 																						<tr>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 7px 0 0 7px; border-right: solid 1px #CECECE; text-transform: uppercase;">
-																								Almacenamiento
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE; text-transform: uppercase;">
+																								DataServer 6
 																							</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">25GB SATA (C:)</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">40GB SATA (C:) + 10GB SATA (D:)</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">60GB SATA (C:) + 40GB SATA (D:)</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 0 7px 7px 0;">
-																								Nos ajustamos a sus necesidades
-																							</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Dell</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">PowerEdge R210</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Intel Xeon X3450</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">16 GB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">1 TB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">4 Terabytes</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9;">single cpu</td>
 																						</tr>
 																						<tr>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">CPU Cores</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">2</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000;">3</td>
-																						</tr>	
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">
+																								DataServer 7
+																							</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">Dell</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">PowerEdge R200</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">Xeon X3220</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">4 GB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">2x1 TB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">4 Terabytes</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000;">single cpu</td>
+																						</tr>
 																						<tr>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 7px 0 0 7px; border-right: solid 1px #CECECE; text-transform: uppercase;">
-																								Ancho de Banda
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE; text-transform: uppercase;">
+																								DataServer 8
 																							</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">1 Mbps Sin limite</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">2 Mbps Sin limite</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">2 Mbps Sin limite</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 0 7px 7px 0;">
-																								Mas de 10 Mbps
-																							</td>
-																						</tr>	
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Supermicro</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">MicroCloud</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Intel Xeon E5-2620</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">32 GB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">1 TB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">4 Terabytes</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9;">single cpu</td>
+																						</tr>
 																						<tr>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">Proteccion RAID</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">No, RAID 0</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">Si, RAID 5</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">Si, RAID 5</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000;">Si, RAID 0 / 1 / 5</td>
-																						</tr>	
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">
+																								DataServer 9
+																							</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">Dell</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">PowerEdge R610</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">Intel Xeon L5640</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">32 GB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1 TB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">4 Terabytes</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000;">single cpu</td>
+																						</tr>
 																						<tr>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 7px 0 0 7px; border-right: solid 1px #CECECE; text-transform: uppercase;">
-																								VHD Backup
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE; text-transform: uppercase;">
+																								DataServer 10
 																							</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">No</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Uno por Mes</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Uno cada 3 semanas</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 0 7px 7px 0;">
-																								Uno cada 2 semanas
-																							</td>
-																						</tr>	
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Supermicro</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">MicroCloud</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Intel Xeon E3-1230 v3</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">8 GB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">1 TB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">4 Terabytes</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9;">single cpu</td>
+																						</tr>
+
 																						<tr>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">Dedicated IPs</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000;">2</td>
-																						</tr>		
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">
+																								DataServer 11
+																							</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">Supermicro</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">FatTwin</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">Intel Xeon E5-2620</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">16 GB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1 TB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">4 Terabytes</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000;">single cpu</td>
+																						</tr>
 																						<tr>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 7px 0 0 7px; border-right: solid 1px #CECECE; text-transform: uppercase;">
-																								Soporte Tecnico
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE; text-transform: uppercase;">
+																								DataServer 12
 																							</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Via Email unicamente</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Via Email + Live Chat</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Via Email + Live Chat</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 0 7px 7px 0;">
-																								Via Email + Live Chat
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Supermicro</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">MicroCloud</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Intel Xeon E3-1230 v3</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">16 GB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">2x1 TB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">4 Terabytes</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9;">single cpu</td>
+																						</tr>
+																						<tr>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">
+																								DataServer 13
 																							</td>
-																						</tr>	
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">Supermicro</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">FatTwin</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">Intel Xeon E5-2620</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">32 GB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1 TB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">4 Terabytes</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000;">single cpu</td>
+																						</tr>
+																						<tr>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE; text-transform: uppercase;">
+																								DataServer 14
+																							</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Supermicro</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">FatTwin</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Intel Xeon E5-2620</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">32 GB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">2x2 TB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">4 Terabytes</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9;">single cpu</td>
+																						</tr>
+																						<tr>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">
+																								DataServer 15
+																							</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">Dell</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">PowerEdge R610</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">Dual Xeon L5640</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">32 GB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1 TB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">4 Terabytes</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000;">multi cpu</td>
+																						</tr>
+																						<tr>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE; text-transform: uppercase;">
+																								DataServer 16
+																							</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Supermicro</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">FatTwin</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Intel Xeon E5-2620</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">32 GB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">1 TB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">4 Terabytes</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9;">multi cpu</td>
+																						</tr>
+																						<tr>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">
+																								DataServer 17
+																							</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">Supermicro</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">FatTwin</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">Dual Xeon E5-2620 v2</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">32 GB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">300 GB SAS</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">4 Terabytes</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000;">multi cpu</td>
+																						</tr>
+																						<tr>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE; text-transform: uppercase;">
+																								DataServer 18
+																							</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Supermicro</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">FatTwin</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Dual Xeon E5-2620</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">64 GB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">2x1 TB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">4 Terabytes</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9;">multi cpu</td>
+																						</tr>
+																						<tr>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">
+																								DataServer 19
+																							</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">Supermicro</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">FatTwin</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">Dual Xeon E5-2620 v2</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">64 GB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">2x300 GB SAS</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">4 Terabytes</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000;">multi cpu</td>
+																						</tr>
+																						<tr>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE; text-transform: uppercase;">
+																								DataServer 20
+																							</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Supermicro</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">FatTwin</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Dual Xeon E5-2620</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">128 GB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">6x1 TB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">4 Terabytes</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9;">multi cpu</td>
+																						</tr>
+																						<tr>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">
+																								DataServer 21
+																							</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">Supermicro</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">FatTwin</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">Dual Xeon E5-2620 v2</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">128 GB</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">6x300 GB SAS</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">4 Terabytes</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000;">multi cpu</td>
+																						</tr>
+															
 																					</table>
 																				</div>
 																			</div>
@@ -701,9 +866,9 @@
 																	<!-- SISTEMAS OPERTATIVOS PRE-INSTALADOS -->
 																	<div>
 																		<div class="panel panel-default">
-																			<div class="panel-heading" role="tab" id="headingTwo">
+																			<div class="panel-heading" role="tab" id="serverHeadingTwo">
 																				<h4 class="panel-title">
-																					<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+																					<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#serverCollapseTwo" aria-expanded="false" aria-controls="serverCollapseTwo">
 																						<div class="productos">
 																							<div class="img_izq">Sistemas Operativos pre-instalados</div>
 																							<div class="img_der"></div>
@@ -711,7 +876,7 @@
 																					</a>
 																				</h4>
 																			</div>
-																			<div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+																			<div id="serverCollapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="serverHeadingTwo">
 																				<div class="panel-body" style="overflow-x:auto;border-top-color:#ADAEAD;">
 																					<div class="row">
 																						<div class="col-md-4">	
@@ -753,9 +918,9 @@
 																	<!-- DEMO -->
 																	<div>
 																		<div class="panel panel-default">
-																			<div class="panel-heading" role="tab" id="headingThree">
+																			<div class="panel-heading" role="tab" id="serverHeadingThree">
 																				<h4 class="panel-title">
-																					<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+																					<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#serverCollapseThree" aria-expanded="false" aria-controls="serverCollapseThree">
 																						<div class="productos">
 																							<div class="img_izq">Demo</div>
 																							<div class="img_der"></div>
@@ -763,11 +928,11 @@
 																					</a>
 																				</h4>
 																			</div>
-																			<div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+																			<div id="serverCollapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="serverHeadingThree">
 																				<div style="overflow-x:auto;border-top-color:#ADAEAD;" class="panel-body">	
 																					<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">																				
 																						Confiado en la calidad de nuestros productos, le ofrecemos un demo de un 
-																						DataVPS por 15 días para que pueda juzgar "sin costo alguno" las virtudes 
+																						DataServer por 15 días para que pueda juzgar <b>"sin costo alguno"</b> las virtudes 
 																						de nuestro producto. ¡Contáctanos y solicita tu demo ya!
 																					</p>
 																				</div>
@@ -782,7 +947,7 @@
 													<br><hr><br>
 													<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">
 														Conoce más de la infraestructura que soporta este y otros productos y servicios de Exodata Solutions, 
-														ven y conoce todo sobre nuestro <a class="normal" style="color:black;" href="#">Datacenter</a>.
+														ven y conoce todo sobre nuestro <a class="normal" style="color:black;" href="index.php#datacenter_section">Datacenter</a>.
 													</p>	
 													<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">
 														Conoce también nuestros productos de hosting y servidores dedicados:
@@ -808,33 +973,32 @@
 											
 											<div class="tab-pane fade" id="datahost">
 												<div style="padding-bottom:0px;font-size:35px;" class="av-special-heading av-special-heading-h2  blockquote modern-quote modern-centered  avia-builder-el-39  el_before_av_hr  avia-builder-el-first   av-inherit-size">
+													<br>
 													<img src="img/productos/datahost_500.png" width="500" height="115">
+													<br><br>
 													<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">
-														Hoy en día es indispensable para toda empresa disponer de una plataforma tecnológica que le permita la 
-														ejecución de sus procesos operativos, financieros y comunicacionales. Esto por lo general representa 
-														una gran inversión en hardware: servidores, switches, routers, cables, racks, etc, sin contar con lo 
-														que implica el correcto hospedaje y mantenimiento de dichos equipos en cuanto a espacio, temperatura, 
-														personal entre otras. 
+														¿Necesita un servicio de hosting u hospedaje de sus páginas y recursos web? Conozca nuestro producto <b>DataHost</b>, un producto 
+														que se adapta a sus necesidades, con la mejor velocidad, interfaz de administración, soporte y por supuesto precio que 
+														puede adquirir. 
 													</p>	
 													<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">
-														Los servidores virtuales vienen a solucionar estos problemas ya que le permiten de forma rápida, 
-														escalable, eficiente, versátil y segura disponer de la infraestructura tecnológica que necesita su 
-														empresa. Olvídese de comprar los equipos, de configurarlos y mantenerlos, con nuestros servidores 
-														virtuales  <b>DataVPS</b>  nosotros en Exodata Solutions nos encargamos de sus necesidades tecnológicas y 
-														así usted puede dedicarse a lo que realmente conoce… su negocio.
+														Nuestros asesores van orientarlo en la elección del plan que se adapte a sus recursos, necesidades tecnológicas y 
+														crecimiento de sus página web.
 													</p>
 													<div class="row">
 														<div class="col-md-8">												
 															<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">
-																<b>DataVPS</b>  también le ofrece los siguientes beneficios:
+																Nuestro <b>DataHost</b> se destaca por:
 																<ul>
-																	<li>Permite consolidar servidores y operar con mayor eficiencia</li>
-																	<li>Ahorro energético, haciendo que nuestra oficina o negocio se convierta en una “empresa verde”</li>
-																	<li>Es más sencillo controlar varios servidores virtuales que varios físicos</li>
-																	<li>La posibilidad de reducir el tiempo de recuperación ante un fallo, y el tiempo para la copia de seguridad</li>
-																	<li>Probar las configuraciones de un software es más sencillo</li>
-																	<li>Se pueden utilizar aplicaciones antiguas que no son compatibles con los nuevos sistemas operativos mediante la creación de un servidor virtual sólo para ellos</li>
-																	<li>Se pueden ejecutar aplicaciones multiplataforma de una manera más sencilla y eficiente</li>
+																	<li><b>Disponibilidad:</b> puede tener acceso a sus recursos web el 99.95 % al año. </li>
+																	<li><b>Rápidez:</b> alta velocidad al acceder al sitio web para los usuarios o visitantes.</li> 
+																	<li><b>Seguridad:</b> la información de la página web sólo puede ser actualizada por la persona responsable del Panel de Control.  </li>
+																	<li><b>Escalabilidad:</b> con base en el crecimiento del sitio web, se puede incrementar el plan de manera inmediata, además de adquirir funciones adicionales a su servicio de alojamiento web.  </li>
+																	<li><b>Control:</b> dispone de cPanel como herramienta administrativa o panel de control de fácil uso que le permitirá gestionar sus recursos informáticos vía web de forma rápida y segura. </li>
+																	<li><b>Soporte:</b> centro de soporte técnico 24/7. </li>
+																	<li>Estamos localizados en uno de los Mejores <a class="normal" style="color:black;" href="index.php#datacenter">Datacenter</a> de los Estados Unidos en Miami FL Colohouse. </li>
+																	<li>Tecnología de punta. </li>
+																	<li>Todos nuestros precios son en <b>Bolívares</b>.</li>
 																</ul>
 															</p>
 														</div>																
@@ -843,31 +1007,97 @@
 														</div>
 													</div>
 													<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">	
-														Los servidores <b>DataVPS</b>  son soluciones ideales para alojamiento de aplicaciones, alojamiento web, el 
-														software como Proveedores de Servicio (SaaS), streaming y varios otros fines que requieren recursos 
-														de calidad.
+														Nuestro <b>DataHost</b> no es solo para la gestión de sitios web, también le facilita la administración de otros servicios 
+														tales como el correo electrónico, los archivos, estadísticas, instalación de scripts, bases de datos y seguridad 
+														entre otros.
 													</p>
-													<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">	
-														Como parte de nuestras políticas de seguridad la información contenida dentro de su(s) <b>DataVPS</b> está 
-														segura por medio de la creación de imágenes o respaldos semanales ejecutados en horas de la noche 
-														sin ningún tipo de interrupción del servicio.
-													</p>						
-													<!--
-													<span style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-style: italic; line-height: 100%;">
-														Planes											
-													</span>
-													-->
 													<div id="faq" class="avia-section main_color avia-section-huge avia-no-border-styling avia-bg-style-scroll  avia-builder-el-38  el_after_av_section  el_before_av_button_big  container_wrap fullsize">
 														<div class="container">									
 															<div class="wrapper">
 																<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 																
+																	<!-- CPANEL -->
+																	<div>
+																		<div class="panel panel-default">
+																			<div class="panel-heading" role="tab" id="hostin_headingOne">
+																				<h4 class="panel-title">
+																					<a role="button" data-toggle="collapse" data-parent="#accordion" href="#hostingCollapseOne" aria-expanded="false" aria-controls="hostingCollapseOne">
+																						<div class="productos">
+																							<div class="img_izq">cPanel</div>
+																							<div class="img_der"></div>
+																						</div>
+																					</a>
+																				</h4>
+																			</div>
+																			<div id="hostingCollapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="hostin_headingOne">
+																				<div style="overflow-x:auto;border-top-color:#ADAEAD;" class="panel-body">	
+																					<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">																				
+																						<b>cPanel</b> facilitan la gestión total de su <b>DataHost</b> de una forma sencilla, con una interfaz 
+																						amigable que ofrece una forma rápida de observar la información relacionada a la cuenta y 
+																						otorga un acceso rápido a las herramientas y utilidades que vienen con el paquete de Hosting 
+																						contratado.
+																					</p>	
+																					<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">
+																						Para el manejo de los correos electrónicos <b>cPanel</b> ayuda a la creación de las cuentas de correo 
+																						electrónico, configurando el espacio asociado, las contraseñas, los alias, filtros y respuestas 
+																						automáticas, generalmente viene con una aplicación Webmail que permite gestionar los correos 
+																						electrónicos desde cualquier navegador, incluyendo además las más avanzadas herramientas antispam 
+																						para controlar los mensajes no deseados.
+																					</p>	
+																					<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">
+																						<b>cPanel</b> tiene una colección de aplicaciones que permiten revisar el desempeño de los sitios de 
+																						internet como Awstats, Latest Visitors y Error Logs entre otros. 
+																					</p>	
+																					<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">
+																						Con <b>cPanel</b> es posible realizar la instalación automatizada de alrededor de 50 diferentes aplicaciones, 
+																						entre las que se destacan WordPress, Drupal y Joomla, control de tickets de soporte y ERPs gratuitos. 
+																					</p>	
+																					<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">
+																						Por medio del manejo de archivos, se pueden realizar labores como editar, borrar y mover los archivos 
+																						en línea por medio del gestor de archivos, donde además se pueden configurar las cuentas FTP, las 
+																						sesiones y los privilegios, manteniendo segura la información configurando y almacenando respaldos 
+																						programados.
+																					</p>	
+																					<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">	
+																						Para los usuarios más experimentados se incluye una colección de herramientas que permiten especificar 
+																						los manejadores de Apache y las actividades programadas (cron), instalar extensiones de Front Page y 
+																						crear páginas de error personalizadas, dando de esta forma un control extenso sobre las bondades del 
+																						servidor.
+																					</p>	
+																					<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">
+																						En resumen <b>cPanel</b> cuenta con las siguientes bondades:
+																						<ul>
+																							<li>La facilidad de administrar sitios web de manera fácil y su interfaz limpia.</li>
+																							<li>Creación y administración de base de datos con MySQL, PostgresSQL y phpMyAdmin.</li>
+																							<li>Adaptarlo a tus necesidades permitiendo así personalizarlo, y por ende mejorar, la experiencia de alojamiento web.</li>
+																							<li>Administrar archivos mediante FTP y administración de DNS.</li>
+																							<li>Permite la visualización de estadísticas del sitio.</li>
+																							<li>Tiene integrado un applet Java que permite una conexión directa con el servidor vía SSH. Aunque se encuentra desactivado en la mayoría de los sitios debido a que es un riesgo para la seguridad del servidor.</li>
+																							<li>Provee una interfaz llamada Crontab para el manejo de las listas de tareas.</li>
+																							<li>Con su interfaz de correo electrónico permite crear cuentas de email en el servidor, ejemplo: usuario@exodatasolutions.com</li>
+																							<li>Importar contactos de manera rápida.</li>
+																							<li>Crear subdominios y subdirectorios.</li>
+																							<li>Redireccionar rápido y fácil a diferencia de otros paneles de control.</li>
+																							<li>Interfaz multilenguaje.</li>
+																							<li>Instalar scripts.</li>
+																						</ul>
+																					</p>
+																					<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">	
+																						Es importante resaltar que <b>cPanel</b> es nuestro panel de control predeterminado, cualquier otro que usted necesite 
+																						deberá ser consultado para validar su disponibilidad.
+																					</p>																					
+																				</div>
+																			</div>
+																		</div>
+																	</div>																
+																
+																
 																	<!-- PLANES -->
 																	<div>
 																		<div class="panel panel-default">
-																			<div class="panel-heading" role="tab" id="headingOne">
+																			<div class="panel-heading" role="tab" id="hostin_headingTwo">
 																				<h4 class="panel-title">
-																					<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+																					<a role="button" data-toggle="collapse" data-parent="#accordion" href="#hostingCollapseTwo" aria-expanded="false" aria-controls="hostingCollapseTwo">
 																						<div class="productos">
 																							<div class="img_izq">Planes</div>
 																							<div class="img_der"></div>
@@ -875,175 +1105,144 @@
 																					</a>
 																				</h4>
 																			</div>
-																			<div id="collapseOne" class="panel-collapse collapse " role="tabpanel" aria-labelledby="headingOne">
+																			<div id="hostingCollapseTwo" class="panel-collapse collapse " role="tabpanel" aria-labelledby="hostin_headingTwo">
 																				<div style="overflow-x:auto;border-top-color:#ADAEAD" class="panel-body">
 																					<table id="planes">
 																						<tr>
 																							<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">Especificaciones T&eacute;cnicas</th>
-																							<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">1 GB</th>
+																							<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">100 MB</th>
+																							<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">300 MB</th>
+																							<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">600 MB</th>
+																							<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">1.2 GB</th>
 																							<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">2 GB</th>
 																							<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">4 GB</th>
-																							<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px;">Personalizado</th>
+																							<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px; border-right: solid 1px #CECECE;">12 GB</th>
+																							<th style="padding: 5px 5px 5px 10px; color: #000000; text-align: center; font-size: 15px;">30 GB</th>
 																						</tr>
-																						<tr style="height:5px;"><td colspan="5" style="border-bottom: solid 1px #CECECE;"></td></tr>
+																						<tr style="height:5px;"><td colspan="9" style="border-bottom: solid 1px #CECECE;"></td></tr>
 																						<tr>
 																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">
-																								Memoria
+																								Cuota del disco (MB)   
 																							</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1 GB</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">2 GB</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">4 GB</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000;">
-																								Nos ajustamos a sus necesidades
-																							</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">100</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">300</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">600</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1200</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">2000</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">4096</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1200</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000;">30000</td>
 																						</tr>
 																						<tr>
 																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 7px 0 0 7px; border-right: solid 1px #CECECE; text-transform: uppercase;">
-																								Almacenamiento
+																								Banda ancha mensual (MB)
 																							</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">25GB SATA (C:)</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">40GB SATA (C:) + 10GB SATA (D:)</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">60GB SATA (C:) + 40GB SATA (D:)</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 0 7px 7px 0;">
-																								Nos ajustamos a sus necesidades
-																							</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">10000</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">15000</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">20000</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">26000</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">65000</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">80000</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">100000</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9;">Ilimitado</td>
 																						</tr>
 																						<tr>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">CPU Cores</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">
+																								Cuentas de FTP máximas    
+																							</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1</td>
 																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1</td>
 																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1</td>
 																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">2</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000;">3</td>
-																						</tr>	
-																						<tr>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 7px 0 0 7px; border-right: solid 1px #CECECE; text-transform: uppercase;">
-																								Ancho de Banda
-																							</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">1 Mbps Sin limite</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">2 Mbps Sin limite</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">2 Mbps Sin limite</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 0 7px 7px 0;">
-																								Mas de 10 Mbps
-																							</td>
-																						</tr>	
-																						<tr>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">Proteccion RAID</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">No, RAID 0</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">Si, RAID 5</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">Si, RAID 5</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000;">Si, RAID 0 / 1 / 5</td>
-																						</tr>	
-																						<tr>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 7px 0 0 7px; border-right: solid 1px #CECECE; text-transform: uppercase;">
-																								VHD Backup
-																							</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">No</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Uno por Mes</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Uno cada 3 semanas</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 0 7px 7px 0;">
-																								Uno cada 2 semanas
-																							</td>
-																						</tr>	
-																						<tr>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">Dedicated IPs</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">2</td>
 																							<td style="padding: 5px 5px 5px 10px; color: #000000;">2</td>
-																						</tr>		
+																						</tr>
 																						<tr>
 																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 7px 0 0 7px; border-right: solid 1px #CECECE; text-transform: uppercase;">
-																								Soporte Tecnico
+																								Cuentas de correo electrónico máximas   
 																							</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Via Email unicamente</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Via Email + Live Chat</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Via Email + Live Chat</td>
-																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 0 7px 7px 0;">
-																								Via Email + Live Chat
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">0</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">6</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">8</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">10</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">12</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">15</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">25</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9;">30</td>
+																						</tr>																						
+																						<tr>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">
+																								Listas máximas de correo electrónico    
 																							</td>
-																						</tr>	
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">0</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">2</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">2</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">4</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">8</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">10</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">14</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000;">16</td>
+																						</tr>
+																						<tr>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 7px 0 0 7px; border-right: solid 1px #CECECE; text-transform: uppercase;">
+																								Máximo de bases de datos   
+																							</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">1</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">2</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">2</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">4</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">4</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">4</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">5</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9;">5</td>
+																						</tr>																						
+																						<tr>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">
+																								Subdominios máximos    
+																							</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">2</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">Ilimitados</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">Ilimitados</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">Ilimitados</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">Ilimitados</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">Ilimitados</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000;">Ilimitados</td>
+																						</tr>
+																						<tr>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-radius: 7px 0 0 7px; border-right: solid 1px #CECECE; text-transform: uppercase;">
+																								Dominios parqueados máximos   
+																							</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">1</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">2</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">2</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Ilimitados</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Ilimitados</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Ilimitados</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9; border-right: solid 1px #CECECE;">Ilimitados</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; background-color: #E0E4E9;">Ilimitados</td>
+																						</tr>
+																						<tr>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE; text-transform: uppercase;">
+																								Dominios adicionales máximos     
+																							</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">1</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">2</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">2</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">2</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">2</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">2</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000; border-right: solid 1px #CECECE;">4</td>
+																							<td style="padding: 5px 5px 5px 10px; color: #000000;">6</td>
+																						</tr>
+																					
 																					</table>
 																				</div>
 																			</div>
 																		</div>
 																	</div>
-																	<!-- SISTEMAS OPERTATIVOS PRE-INSTALADOS -->
-																	<div>
-																		<div class="panel panel-default">
-																			<div class="panel-heading" role="tab" id="headingTwo">
-																				<h4 class="panel-title">
-																					<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-																						<div class="productos">
-																							<div class="img_izq">Sistemas Operativos pre-instalados</div>
-																							<div class="img_der"></div>
-																						</div>
-																					</a>
-																				</h4>
-																			</div>
-																			<div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
-																				<div class="panel-body" style="overflow-x:auto;border-top-color:#ADAEAD;">
-																					<div class="row">
-																						<div class="col-md-4">	
-																							<img src="img/logos/archlinux_300.png">
-																						</div>
-																						<div class="col-md-4">	
-																							<img src="img/logos/centos_300.png">
-																						</div>																				
-																						<div class="col-md-4">	
-																							<img src="img/logos/citrix_300.png">
-																						</div>			
-																					</div>		
-																					<div class="row">
-																						<div class="col-md-4">	
-																							<img src="img/logos/debian_300.png">
-																						</div>
-																						<div class="col-md-4">	
-																							<img src="img/logos/fedora_300.png">
-																						</div>																				
-																						<div class="col-md-4">	
-																							<img src="img/logos/freebsd_300.png">
-																						</div>			
-																					</div>	
-																					<div class="row">
-																						<div class="col-md-4">	
-																							<img src="img/logos/ubuntu_300.png">
-																						</div>
-																						<div class="col-md-4">	
-																							<img src="img/logos/vmware_300.png">
-																						</div>																				
-																						<div class="col-md-4">	
-																							<img src="img/logos/windows_300.png">
-																						</div>			
-																					</div>																					
-																				</div>
-																			</div>
-																		</div>
-																	</div>
-																	<!-- DEMO -->
-																	<div>
-																		<div class="panel panel-default">
-																			<div class="panel-heading" role="tab" id="headingThree">
-																				<h4 class="panel-title">
-																					<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-																						<div class="productos">
-																							<div class="img_izq">Demo</div>
-																							<div class="img_der"></div>
-																						</div>
-																					</a>
-																				</h4>
-																			</div>
-																			<div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
-																				<div style="overflow-x:auto;border-top-color:#ADAEAD;" class="panel-body">	
-																					<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">																				
-																						Confiado en la calidad de nuestros productos, le ofrecemos un demo de un 
-																						DataVPS por 15 días para que pueda juzgar "sin costo alguno" las virtudes 
-																						de nuestro producto. ¡Contáctanos y solicita tu demo ya!
-																					</p>
-																				</div>
-																			</div>
-																		</div>
-																	</div>
-								
 																</div>
 															</div>
 														</div>
@@ -1051,7 +1250,7 @@
 													<br><hr><br>
 													<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">
 														Conoce más de la infraestructura que soporta este y otros productos y servicios de Exodata Solutions, 
-														ven y conoce todo sobre nuestro <a class="normal" style="color:black;" href="#">Datacenter</a>.
+														ven y conoce todo sobre nuestro <a class="normal" style="color:black;" href="index.php#datacenter_section">Datacenter</a>.
 													</p>	
 													<p style="font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, sans-serif; letter-spacing: 2px; font-size: 20px; text-align: justify">
 														Conoce también nuestros productos de hosting y servidores dedicados:
